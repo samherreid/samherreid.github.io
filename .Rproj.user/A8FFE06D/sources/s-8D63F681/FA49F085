@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "4223985954",
+    "hash" : "0",
     "id" : "FA49F085",
     "lastKnownWriteTime" : 1527834612,
     "last_content_update" : 1527834612,
     "path" : "~/samherreid.github.io/content/project/DCT.md",
     "project_path" : "content/project/DCT.md",
     "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0"
     },
     "relative_order" : 1,
     "source_on_save" : false,
