@@ -6,7 +6,7 @@ date = 2016-04-27T00:00:00
 title = "Canwell Glacier Research Program"
 
 # Project summary to display on homepage.
-summary = "2011 - on going"
+summary = "2011 - ongoing"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "canThumb-01.jpg"

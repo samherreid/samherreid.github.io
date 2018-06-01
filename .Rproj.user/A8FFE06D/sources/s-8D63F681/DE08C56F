@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1367879834",
+    "hash" : "0",
     "id" : "DE08C56F",
-    "lastKnownWriteTime" : 1527861397,
-    "last_content_update" : 1527861397364,
+    "lastKnownWriteTime" : 1527874384,
+    "last_content_update" : 1527874385002,
     "path" : "~/samherreid.github.io/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "13,98",
+        "cursorPosition" : "11,49",
         "scrollLine" : "0"
     },
     "relative_order" : 5,
