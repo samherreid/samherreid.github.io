@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1527857851881.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3234452295",
+    "id" : "DE08C56F",
+    "lastKnownWriteTime" : 1527860718,
+    "last_content_update" : 1527860718404,
+    "path" : "~/samherreid.github.io/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "65,18",
+        "scrollLine" : "42"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
