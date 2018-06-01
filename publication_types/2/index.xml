@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Sam Herreid</title>
+    <link>/publication_types/2/</link>
+    <description>Recent content in 2 on Sam Herreid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 All photos and figures by Sam Herreid (profile photo by Ned Rozell)</copyright>
+    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automated detection of ice cliffs within supraglacial debris cover</title>
+      <link>/publication/icecliffs/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/icecliffs/</guid>
+      <description>Ice cliffs within a supraglacial debris cover have been identified as a source for high ablation relative to the surrounding debris-covered area. Due to their small relative size and steep orientation, ice cliffs are difficult to detect using nadir-looking space borne sensors. The method presented here uses surface slopes calculated from digital elevation model (DEM) data to map ice cliff geometry and produce an ice cliff probability map. Surface slope thresholds, which can be sensitive to geographic location and/or data quality, are selected automatically.</description>
+    </item>
+    
+    <item>
+      <title>Automated detection of ice cliffs within supraglacial debris cover</title>
+      <link>/publication/icecliffs_featured/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/icecliffs_featured/</guid>
+      <description>Ice cliffs within a supraglacial debris cover have been identified as a source for high ablation relative to the surrounding debris-covered area. Due to their small relative size and steep orientation, ice cliffs are difficult to detect using nadir-looking space borne sensors. The method presented here uses surface slopes calculated from digital elevation model (DEM) data to map ice cliff geometry and produce an ice cliff probability map. Surface slope thresholds, which can be sensitive to geographic location and/or data quality, are selected automatically.</description>
+    </item>
+    
+    <item>
+      <title>Automated detection of unstable glacier flow and a spectrum of speedup behavior in the Alaska Range</title>
+      <link>/publication/surge/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/surge/</guid>
+      <description>Surge‐type glaciers are loosely defined as glaciers that experience periodic alterations between slow and fast flow regimes. Glaciers from a variety of mountain ranges around the world have been classified as surge type, yet consensus of what defines a glacier as surge type has not always been met. A common source of dispute is the lack of a succinct and globally applicable delimiter between a surging and nonsurging glacier. The attempt is often a Boolean classification; however, glacier speedup events can vary significantly with respect to event magnitude, duration, and the fraction of the glacier that participates in the speedup.</description>
+    </item>
+    
+    <item>
+      <title>Automated detection of unstable glacier flow and a spectrum of speedup behavior in the Alaska Range</title>
+      <link>/publication/surge_featured/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/surge_featured/</guid>
+      <description>Surge‐type glaciers are loosely defined as glaciers that experience periodic alterations between slow and fast flow regimes. Glaciers from a variety of mountain ranges around the world have been classified as surge type, yet consensus of what defines a glacier as surge type has not always been met. A common source of dispute is the lack of a succinct and globally applicable delimiter between a surging and nonsurging glacier. The attempt is often a Boolean classification; however, glacier speedup events can vary significantly with respect to event magnitude, duration, and the fraction of the glacier that participates in the speedup.</description>
+    </item>
+    
+    <item>
+      <title>Satellite observations show no net change in the percentage of supraglacial debris-covered area in northern Pakistan from 1977 to 2014</title>
+      <link>/publication/pakistan/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/pakistan/</guid>
+      <description>Spatial evolution of supraglacial debris cover on mountain glaciers is a largely unmonitored and poorly understood phenomenon that directly affects glacier melt. Supraglacial debris cover for 93 glaciers in the Karakoram, northern Pakistan, was mapped from Landsat imagery acquired in 1977, 1998, 2009 and 2014. Surge-type glaciers occupy 41% of the study area and were considered separately. The time series of debris-covered surface area change shows a mean value of zero or near-zero change for both surging and non-surging glaciers.</description>
+    </item>
+    
+    <item>
+      <title>Derivation and analysis of a complete modern-date glacier inventory for Alaska and northwest Canada</title>
+      <link>/publication/akinventory/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/akinventory/</guid>
+      <description>We present a detailed, complete glacier inventory for Alaska and neighboring Canada using multi-sensor satellite data from 2000 to 2011. For each glacier, we derive outlines and 51 variables, including center-line lengths, outline types and debris cover. We find 86 723 km2 of glacier area (27 109 glaciers &amp;gt;0.025 km2), ∼12% of the global glacierized area outside ice sheets. Of this area 12.0% is drained by 39 marine-terminating glaciers (74 km of tidewater margin), and 19.</description>
+    </item>
+    
+  </channel>
+</rss>

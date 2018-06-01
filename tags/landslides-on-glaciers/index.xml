@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Landslides on glaciers on Sam Herreid</title>
+    <link>/tags/landslides-on-glaciers/</link>
+    <description>Recent content in Landslides on glaciers on Sam Herreid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 All photos and figures by Sam Herreid (profile photo by Ned Rozell)</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/landslides-on-glaciers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Landslides on glaciers</title>
+      <link>/project/landslides/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/project/landslides/</guid>
+      <description>Landslides, more technically rock avalanches, are striking features when deposited onto glaciers. Since 2010 I have been both scientifically and personally interested in visiting as many as I can while also keeping an eye on satellite imagery for the next big one&amp;hellip; They are all quite unique, as you will see from some of my favorites shown below.
+The Delta Mountains, a sub-range of the Alaska Range. Landslides are shown in red and letters correspond to the locations of the images below.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DCT on Sam Herreid</title>
+    <link>/tags/dct/</link>
+    <description>Recent content in DCT on Sam Herreid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 All photos and figures by Sam Herreid (profile photo by Ned Rozell)</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/dct/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Debris Cover Tools</title>
+      <link>/project/dct/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/project/dct/</guid>
+      <description>Glaciers are constantly in a state of flux. In addition to glacier evolution, rock debris rafting on the surface, surface streams and supraglacial lakes are all also evolving, likely at independent rates. The glacier surge event shown above is an extreme example of this, but within an unstable climate, all glaciers will undergo dramatic changes over decadal to centennial time-scales. Quantifying this change is the first step in understanding and modeling the greater questions in glaciology.</description>
+    </item>
+    
+  </channel>
+</rss>

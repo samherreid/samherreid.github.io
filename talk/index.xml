@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Sam Herreid</title>
+    <link>/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Sam Herreid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 All photos and figures by Sam Herreid (profile photo by Ned Rozell)</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A globally complete map of supraglacial debris cover and a new toolkit for debris cover research</title>
+      <link>/talk/polarcopy/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/polarcopy/</guid>
+      <description>A growing canon of literature is focused on resolving the processes and implications of debris cover on glaciers. However, this work is often confined to a handful of glaciers that were likely selected based on criteria optimizing their suitability to test a specific hypothesis or logistical ease. The role of debris cover in a glacier system is likely to not go overlooked in forthcoming research, yet the magnitude of this role at a global scale has not yet been fully described.</description>
+    </item>
+    
+    <item>
+      <title>Time-lapse thermal imagery used to resolve sub-debris glacier melt in Alaska</title>
+      <link>/talk/polar/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/polar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thermal imagery in glaciology on Sam Herreid</title>
+    <link>/tags/thermal-imagery-in-glaciology/</link>
+    <description>Recent content in Thermal imagery in glaciology on Sam Herreid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 All photos and figures by Sam Herreid (profile photo by Ned Rozell)</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/thermal-imagery-in-glaciology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thermal imagery in glaciology</title>
+      <link>/project/thermal/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/project/thermal/</guid>
+      <description>The thumbnail image to this project is of fist to silt-sized clasts on an otherwise bare glacier ice surface. The thumbnail image probably falls within one pixel in the image above which is looking straight down from a helicopter with an image width of several hundred meters. High resolution thermal data holds many answers about debris cover but has received limited attention from glaciologists. Work that is in preparation will detail new methods for acquisition, processing and applications for glaciologists.</description>
+    </item>
+    
+  </channel>
+</rss>

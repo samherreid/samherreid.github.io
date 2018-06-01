@@ -1,0 +1,72 @@
++++
+# Date this page was created.
+date = 2016-04-27T00:00:00
+
+# Project title.
+title = "Landslides on glaciers"
+
+# Project summary to display on homepage.
+summary = "Half hobby, half research interest: visiting supraglacial landslides in the Alaska Range"
+
+# Optional image to display on homepage (relative to `static/img/` folder).
+image_preview = "landslide_thumb-01.jpg"
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["Landslides on glaciers"]
+
+# Optional external URL for project (replaces project detail page).
+external_link = ""
+
+# Does the project detail page use math formatting?
+math = false
+
+# Optional featured image (relative to `static/img/` folder).
+
+[header]
+
+image = "glacierboo.jpg"
+caption = "Supraglacial caribou, West Fork Robertson Glacier"
+
++++
+
+Landslides, more technically rock avalanches, are striking features when deposited onto glaciers. Since 2010 I have been both scientifically and personally interested in visiting as many as I can while also keeping an eye on satellite imagery for the next big one... They are all quite unique, as you will see from some of my favorites shown below. 
+
+<img src="Slide1.jpg" width="800" height="800" />
+
+The Delta Mountains, a sub-range of the Alaska Range. Landslides are shown in red and letters correspond to the locations of the images below. 
+
+<img src="Slide2.jpg" width="800" height="800" />
+
+The Hayes Range, a sub-range of the Alaska Range. Landslides are shown in red and letters correspond to the locations of the images below. 
+
+<img src="Slide3.jpg" width="800" height="800" />
+
+**(a)** In 2010 I camped for two weeks on the West Fork Robertson Glacier. Our tent was on the medial moraine just below the arrow.
+
+<img src="Slide4.jpg" width="800" height="800" />
+
+**(a)** When we returned to the same spot in 2011 a fresh landslide had been deposited almost exactly where our camp was the previous year. The arrow points to the same locations in both images. Notice how the debris "jumped" over the medial moraine! Glaciers, and the rock debris on top of them, are in constant state of flux. 
+
+<img src="Slide5.jpg" width="800" height="800" />
+
+**(a)** Investigating the debris from the landslide shown above. Andy Sterns for scale. Notice the rock size and size distribution: small and uniform.
+
+<img src="Slide6.jpg" width="800" height="800" />
+
+**(b)** In contrast to the image above. Investigating landslide debris on the West Fork Glacier (Hayes Range). Andy Sterns for scale, standing on a house sized rock.     
+
+<img src="Slide7.jpg" width="800" height="800" />
+
+**(c<sup></sup>)** West Fork Roberson Glacier, landslide deposition ~1981. Notice the ridge along the perimeter of the landslide, this is common but not always present. 
+
+<img src="Slide8.jpg" width="800" height="800" />
+
+**(d)** Airborne, downward-looking thermal image of one of the Black Rapids Glacier landslides deposited during the 2002 Denali Fault earthquake. Notice the shading effect from the giant boulders and the "cold" spots on the meters thick debris cover. 
+
+<img src="Slide9.jpg" width="800" height="800" />
+
+**(e)** One of the several landslides deposited onto Gakona Glacier in 2002. Maybe it goes without saying, but the winter biking here turns out to be awful. 
+
+
+
