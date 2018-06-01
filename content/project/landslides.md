@@ -62,7 +62,7 @@ The Hayes Range, a sub-range of the Alaska Range. Landslides are shown in red an
 
 <img src="Slide8.JPG" width="800" height="800" />
 
-**(d)** Airborne, downward-looking thermal image of one of the Black Rapids Glacier landslides deposited during the 2002 Denali Fault earthquake. Notice the shading effect from the giant boulders and the "cold" spots on the meters thick debris cover. 
+**(d)** Downward-looking thermal image captured during a flight with [Martin Truffer](http://glacieradventures.blogspot.com/) over Black Rapids Glacier. Several landslides on Black Rapids Glacier, along with many others all arcoss the Alaska Range, were deposited during the 2002 Denali Fault earthquake. Notice the shading effect on surface temperature from the giant boulders and the "cold" spots on the meters thick debris cover. 
 
 <img src="Slide9.JPG" width="800" height="800" />
 
