@@ -42,11 +42,11 @@ The Hayes Range, a sub-range of the Alaska Range. Landslides are shown in red an
 
 <img src="Slide3.JPG" width="800" height="800" />
 
-**(a)** In 2010 I camped for two weeks on the West Fork Robertson Glacier. Our tent was on the medial moraine just below the arrow.
+**(a)** In 2010, Andy Sterns and I camped for two weeks on the West Fork Robertson Glacier. Our tent was on the medial moraine just below the arrow.
 
 <img src="Slide4.JPG" width="800" height="800" />
 
-**(a)** When we returned to the same spot in 2011 a fresh landslide had been deposited almost exactly where our camp was the previous year. The arrow points to the same locations in both images. Notice how the debris "jumped" over the medial moraine! Glaciers, and the rock debris on top of them, are in constant state of flux. 
+**(a)** When we returned to the same spot in 2011 a fresh landslide had been deposited almost exactly where our camp was the previous year. The arrows point to the same location in both images. Notice how the debris "jumped" over the medial moraine! Glaciers, and the rock debris on top of them, are in constant state of flux. 
 
 <img src="Slide5.JPG" width="800" height="800" />
 
