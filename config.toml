@@ -65,7 +65,7 @@ enableGitInfo = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "Norway.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "samherreid@gmail.com"
-  address = "Today - 14 June 2018"
+  address = "Today - 21 June 2018"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
   #skype = "echo123"
@@ -100,11 +100,13 @@ enableGitInfo = false
   map = 2
   map_api_key = ""
   #  Newcastle
-  latitude = "54.977509"
-  longitude = "-1.607445"
+  #latitude = "54.977509"
+  #longitude = "-1.607445"
   #  Tromso 
   #latitude = "69.682557"
-  #longitude = "18.972588"  
+  #longitude = "18.972588" 
+  latitude = "46.800404"
+  longitude = "9.831741"
   zoom = 13
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
