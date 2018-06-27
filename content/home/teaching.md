@@ -18,7 +18,7 @@ weight = 60
 
 **Past:**
 
-<a href="https://itra.run/community/sam.herreid/1714633/111043/" class="itra-badge- itra-badge-follow" target="_blank"><img src="//barlatay.ch/wp-content/uploads/2015/02/itralogo-300x187.jpg" 
+<a href="https://itra.run/community/sam.herreid/1714633/111043/" class="itra-badge- itra-badge-follow" target="_blank"><img src="home/itralogo.jpg" 
 height="60" 
 width="65"
 alt="itra" /></a>
@@ -31,7 +31,7 @@ alt="itra" /></a>
   .strava-badge-:hover { background-position: 0 -63px; }
   .strava-badge-follow { height: 48px; width: 48px; background: url(//badges.strava.com/echelon-sprite-48.png) no-repeat 0 0; }
 </style>
-<a href="http://strava.com/athletes/24750605/badge" class="strava-badge- strava-badge-follow" target="_blank"><img src="//badges.strava.com/echelon-sprite-48.png" alt="Strava" /></a>
+<a href="http://strava.com/athletes/24750605/badge" class="strava-badge- strava-badge-follow" target="_blank"><img src="home/48.png" alt="Strava" /></a>
 
 **Upcoming:**
 
