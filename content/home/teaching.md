@@ -35,7 +35,5 @@ alt="strava" /></a>
 
 2018 race schedule:
 
-- Tromsø Skyrace
 - UTMB CCC
-- Crimea X Run
 - Bob Graham Round
