@@ -33,7 +33,6 @@ alt="strava" /></a>
 
 **Upcoming:**
 
-2018 race schedule:
+2019 race schedule:
 
-- UTMB CCC
-- Bob Graham Round
+Таганай Тургояк 63k
