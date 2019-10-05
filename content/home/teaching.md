@@ -25,7 +25,7 @@ alt="itra" /></a>
 
 **Current:**
 
-<a href="http://strava.com/athletes/24750605/badge" class="strava-badge- strava-badge-follow" target="_blank"><img src="home/48.png" 
+<a href="https://www.strava.com/athletes/24750605" class="strava-badge- strava-badge-follow" target="_blank"><img src="home/48.png" 
 height="48" 
 width="48"
 alt="strava" /></a>
