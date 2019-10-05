@@ -33,6 +33,6 @@ alt="strava" /></a>
 
 **Upcoming:**
 
-2019 race schedule:
+2020 race schedule:
 
-Таганай Тургояк 63k
+???
