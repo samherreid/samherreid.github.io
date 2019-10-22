@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 All photos and figures by Sam Herreid (profile photo by E. Ershova, glacier bike thumbnail by S. Bridwell)</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Automated detection of ice cliffs within supraglacial debris cover</title>
       <link>/publication/icecliffs/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 01 May 2018 00:00:00 -0400</pubDate>
       
       <guid>/publication/icecliffs/</guid>
       <description>&lt;p&gt;Ice cliffs within a supraglacial debris cover have been identified as a source for high ablation relative to the surrounding debris-covered area. Due to their small relative size and steep orientation, ice cliffs are difficult to detect using nadir-looking space borne sensors. The method presented here uses surface slopes calculated from digital elevation model (DEM) data to map ice cliff geometry and produce an ice cliff probability map. Surface slope thresholds, which can be sensitive to geographic location and/or data quality, are selected automatically. The method also attempts to include area at the (often narrowing) ends of ice cliffs which could otherwise be neglected due to signal saturation in surface slope data. The method was calibrated in the Eastern Alaska Range, Alaska, USA, against a control ice cliff dataset derived from high resolution visible and thermal data. Using the same input parameter set that performed best in Alaska, the method was tested against ice cliffs manually mapped in the Khumbu Himal, Nepal. Our results suggest the method can accommodate different glaciological settings and different DEM data sources without a data intensive (high resolution, multi-data source) re-calibration.&lt;/p&gt;
@@ -23,7 +23,7 @@
     <item>
       <title>Automated detection of ice cliffs within supraglacial debris cover</title>
       <link>/publication/icecliffs_featured/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 01 May 2018 00:00:00 -0400</pubDate>
       
       <guid>/publication/icecliffs_featured/</guid>
       <description>&lt;p&gt;Ice cliffs within a supraglacial debris cover have been identified as a source for high ablation relative to the surrounding debris-covered area. Due to their small relative size and steep orientation, ice cliffs are difficult to detect using nadir-looking space borne sensors. The method presented here uses surface slopes calculated from digital elevation model (DEM) data to map ice cliff geometry and produce an ice cliff probability map. Surface slope thresholds, which can be sensitive to geographic location and/or data quality, are selected automatically. The method also attempts to include area at the (often narrowing) ends of ice cliffs which could otherwise be neglected due to signal saturation in surface slope data. The method was calibrated in the Eastern Alaska Range, Alaska, USA, against a control ice cliff dataset derived from high resolution visible and thermal data. Using the same input parameter set that performed best in Alaska, the method was tested against ice cliffs manually mapped in the Khumbu Himal, Nepal. Our results suggest the method can accommodate different glaciological settings and different DEM data sources without a data intensive (high resolution, multi-data source) re-calibration.&lt;/p&gt;
@@ -33,7 +33,7 @@
     <item>
       <title>A globally complete map of supraglacial debris cover and a new toolkit for debris cover research</title>
       <link>/talk/polarcopy/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>/talk/polarcopy/</guid>
       <description>&lt;p&gt;A growing canon of literature is focused on resolving the processes and implications of debris cover on glaciers.
@@ -59,7 +59,7 @@ in the near future.&lt;/p&gt;
     <item>
       <title>Time-lapse thermal imagery used to resolve sub-debris glacier melt in Alaska</title>
       <link>/talk/polar/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>/talk/polar/</guid>
       <description></description>
@@ -68,7 +68,7 @@ in the near future.&lt;/p&gt;
     <item>
       <title>Canwell Glacier Research Program</title>
       <link>/project/canwellglacier/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/project/canwellglacier/</guid>
       <description>
@@ -98,7 +98,7 @@ in the near future.&lt;/p&gt;
     <item>
       <title>Debris Cover Tools</title>
       <link>/project/dct/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/project/dct/</guid>
       <description>&lt;p&gt;Glaciers are constantly in a state of flux. In addition to glacier evolution, rock debris rafting on the surface, surface streams and supraglacial lakes are all also evolving, likely at independent rates. The glacier surge event shown above is an extreme example of this, but within an unstable climate, all glaciers will undergo dramatic changes over decadal to centennial time-scales. Quantifying this change is the first step in understanding and modeling the greater questions in glaciology. The front edge of this effort is currently centered around large-scale to global mapping products optimized for accuracy, consistency and computational efficiency. To contribute to this effort, my co-authors and I have written two &amp;ldquo;Automated detection of&amp;hellip;&amp;rdquo; articles aimed at subdividing &lt;em&gt;glacier area&lt;/em&gt; into very specific categories that will increase the ability of computer models to approach what is truly found in nature and make future projections.&lt;/p&gt;
@@ -110,7 +110,7 @@ in the near future.&lt;/p&gt;
     <item>
       <title>Global scale analyses and products</title>
       <link>/project/global/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/project/global/</guid>
       <description></description>
@@ -119,7 +119,7 @@ in the near future.&lt;/p&gt;
     <item>
       <title>Landslides on glaciers</title>
       <link>/project/landslides/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/project/landslides/</guid>
       <description>&lt;p&gt;Landslides, more technically rock avalanches, are striking features when deposited onto glaciers. Since 2010 I have been both scientifically and personally interested in visiting as many as I can while also keeping an eye on satellite imagery for the next big one&amp;hellip; They are all quite unique, as you will see from some of my favorites shown below.&lt;/p&gt;
@@ -165,7 +165,7 @@ in the near future.&lt;/p&gt;
     <item>
       <title>Thermal imagery in glaciology</title>
       <link>/project/thermal/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/project/thermal/</guid>
       <description>&lt;p&gt;The thumbnail image to this project is of fist to silt-sized clasts on an otherwise bare glacier ice surface. The thumbnail image falls within one or two pixels in the image above which is looking straight down from a helicopter with an image width of several hundred meters. High resolution thermal data holds many answers about debris cover but has received limited attention from glaciologists. Work that is in preparation will detail new methods for acquisition, processing and applications for glaciologists. Coming soon.&lt;/p&gt;
@@ -175,7 +175,7 @@ in the near future.&lt;/p&gt;
     <item>
       <title>Academic: the website designer for Hugo</title>
       <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/post/getting-started/</guid>
       <description>
@@ -363,7 +363,7 @@ git submodule update --init --recursive
     <item>
       <title>Automated detection of unstable glacier flow and a spectrum of speedup behavior in the Alaska Range</title>
       <link>/publication/surge/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
       
       <guid>/publication/surge/</guid>
       <description>&lt;p&gt;Surge‐type glaciers are loosely defined as glaciers that experience periodic alterations between slow and fast flow regimes. Glaciers from a variety of mountain ranges around the world have been classified as surge type, yet consensus of what defines a glacier as surge type has not always been met. A common source of dispute is the lack of a succinct and globally applicable delimiter between a surging and nonsurging glacier. The attempt is often a Boolean classification; however, glacier speedup events can vary significantly with respect to event magnitude, duration, and the fraction of the glacier that participates in the speedup. For this study, we first updated the inventory of glaciers that show flow instabilities in the Alaska Range and then quantified the spectrum of speedup behavior. We developed a new method that automatically detects glaciers with flow instabilities. Our automated results show a 91% success rate when compared to direct observations of speedup events and glaciers that are suspected to display unstable flow based on surface features. Through a combination of observations from the Landsat archive and previously published data, our inventory now contains 36 glaciers that encompass at least one branch exhibiting unstable flow and we document 53 speedup events that occurred between 1936 and 2014. We then present a universal method for comparing glacier speedup events based on a normalized event magnitude metric. This method provides a consistent way to include and quantify the full spectrum of speedup events and allows for comparisons with glaciers that exhibit clear surge characteristics yet have no observed surge event to date. Our results show a continuous spectrum of speedup magnitudes, from steady flow to clearly surge type, which suggests that qualitative classifications, such as “surge‐type” or “pulse‐type” behavior, might be too simplistic and should be accompanied by a standardized magnitude metric.&lt;/p&gt;
@@ -373,7 +373,7 @@ git submodule update --init --recursive
     <item>
       <title>Automated detection of unstable glacier flow and a spectrum of speedup behavior in the Alaska Range</title>
       <link>/publication/surge_featured/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
       
       <guid>/publication/surge_featured/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;speedup_fig.jpg&#34; width=&#34;2000&#34; height=&#34;2000&#34; /&gt;&lt;/p&gt;
@@ -433,7 +433,7 @@ Figure 1: A fancy pie chart.
     <item>
       <title>Satellite observations show no net change in the percentage of supraglacial debris-covered area in northern Pakistan from 1977 to 2014</title>
       <link>/publication/pakistan/</link>
-      <pubDate>Wed, 01 Apr 2015 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 -0400</pubDate>
       
       <guid>/publication/pakistan/</guid>
       <description>&lt;p&gt;Spatial evolution of supraglacial debris cover on mountain glaciers is a largely unmonitored and poorly understood phenomenon that directly affects glacier melt. Supraglacial debris cover for 93 glaciers in the Karakoram, northern Pakistan, was mapped from Landsat imagery acquired in 1977, 1998, 2009 and 2014. Surge-type glaciers occupy 41% of the study area and were considered separately. The time series of debris-covered surface area change shows a mean value of zero or near-zero change for both surging and non-surging glaciers. An increase in debris-covered area is often associated with negative regional mass balances. We extend this logic to suggest that the stable regional mass balances in the Karakoram explain the zero or near-zero change in debris-covered area. This coupling of trends combined with our 37 year time series of data suggests the Karakoram anomaly extends further back in time than previously known.&lt;/p&gt;
@@ -443,7 +443,7 @@ Figure 1: A fancy pie chart.
     <item>
       <title>Derivation and analysis of a complete modern-date glacier inventory for Alaska and northwest Canada</title>
       <link>/publication/akinventory/</link>
-      <pubDate>Sun, 01 Feb 2015 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 -0500</pubDate>
       
       <guid>/publication/akinventory/</guid>
       <description>&lt;p&gt;We present a detailed, complete glacier inventory for Alaska and neighboring Canada using multi-sensor satellite data from 2000 to 2011. For each glacier, we derive outlines and 51 variables, including center-line lengths, outline types and debris cover. We find 86 723 km2 of glacier area (27 109 glaciers &amp;gt;0.025 km2), ∼12% of the global glacierized area outside ice sheets. Of this area 12.0% is drained by 39 marine-terminating glaciers (74 km of tidewater margin), and 19.3% by 148 lake- and river-terminating glaciers (420 km of lake-/river margin). The overall debris cover is 11%, with considerable differences among regions, ranging from 1.4% in the Kenai Mountains to 28% in the Central Alaska Range. Comparison of outlines from different sources on &amp;gt;2500 km2 of glacierized area yields a total area difference of ∼10%, emphasizing the difficulties in accurately delineating debris-covered glaciers. Assuming fully correlated (systematic) errors, uncertainties in area reach 6% for all Alaska glaciers, but further analysis is needed to explore adequate error correlation scales. Preliminary analysis of the glacier database yields a new set of well-constrained area/length scaling parameters and shows good agreement between our area–altitude distributions and previously established synthetic hypsometries. The new glacier database will be valuable to further explore relations between glacier variables and glacier behavior.&lt;/p&gt;

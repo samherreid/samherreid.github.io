@@ -65,7 +65,7 @@ enableGitInfo = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "Norway.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "samherreid@gmail.com"
-  address = "Today - 15 October 2019"
+  address = "Today - 01 March 2020"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
   #skype = "echo123"
@@ -103,13 +103,16 @@ enableGitInfo = false
   #latitude = "54.977509"
   #longitude = "-1.607445"
   #  Zurich
-  latitude = "47.360822"
-  longitude = "8.455503"
+  #latitude = "47.360822"
+  #longitude = "8.455503"
   #  Tromso 
   #latitude = "69.682557"
   #longitude = "18.972588" 
   #latitude = "46.800404"
   #longitude = "9.831741"
+  # New York 
+  latitude = "40.832015"
+  longitude = "-73.919998"
   zoom = 13
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
