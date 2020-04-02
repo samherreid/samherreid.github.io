@@ -11,7 +11,7 @@ title = "Sam Herreid"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018 All photos and figures by Sam Herreid (profile photo by E. Ershova, glacier bike thumbnail by S. Bridwell)"
+copyright = "&copy; 2020 All photos and figures by Sam Herreid (profile photo by E. Ershova, glacier bike thumbnail by S. Bridwell)"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -63,9 +63,10 @@ enableGitInfo = false
   organizations = [ { name = "", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "Norway.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "StMoritz.jpg"
+  #avatar = "Norway.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "samherreid@gmail.com"
-  address = "Today - 01 April 2020"
+  address = "Today - 01 June 2020 or whenever Coronavirus ends..."
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
   #skype = "echo123"
@@ -241,10 +242,10 @@ enableGitInfo = false
     icon_pack = "fa"
     link = "mailto:samherreid@gmail.com"
 
-#  [[params.social]]
-#    icon = "twitter"
-#    icon_pack = "fa"
-#    link = "//twitter.com/GeorgeCushen"
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "linkedin.com/in/sam-herreid-55a8481a5"
 
   [[params.social]]
     icon = "google-scholar"
