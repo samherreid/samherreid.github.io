@@ -24,7 +24,7 @@ publication_short = "*Nature Geoscience*"
 abstract = ""
 
 # Featured image thumbnail (optional)
-image_preview = "headers/Untitled2.jpg"
+image_preview = "headers/global_pan.gif"
 
 # Is this a selected publication? (true/false)
 selected = true
