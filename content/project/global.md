@@ -6,7 +6,7 @@ date = 2016-04-27T00:00:00
 title = "Global scale analyses and products"
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Publicly available datasets: a refined and consistent version of the RGI and a global debris cover map"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "gisThumb-01.jpg"
@@ -28,7 +28,7 @@ math = false
 image = "headers/global_pan.gif"
 
 
-caption = ""
+caption = "1° x 1° cells over glacierized area showing percent debris-covered area."
 
 +++
 
@@ -38,7 +38,7 @@ With a high confidence map of glacier area and debris cover, an equilibrium line
 
 After the derivation of each galcier's equilibrium line, the accumulation area ratio (AAR), a metrics of glacier health, can be calculated. 
 
-From here I was able to diverge from the common, and not-so-informative, metric " percent debris-covered"  to define 5 new metrics, that, together, describe the state and geometric configuration of each glacier's debris cover. These new metrics are defined below with examples from around the world.
+From here I was able to diverge from the common, and not-so-informative, metric " percent debris-covered"  to define four new metrics, that, together, describe the state and geometric configuration of each glacier's debris cover. These new metrics are defined below with examples from around the world.
 
 
 <img src="fig3-01.jpg" width="2000" height="2000" />
