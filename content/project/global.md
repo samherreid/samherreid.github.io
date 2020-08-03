@@ -32,7 +32,7 @@ caption = "1° x 1° cells over glacierized area showing percent debris-covered 
 
 +++
 
-In order to derive a global debris cover map at an operative quality, the Randolph Glacier Inventory Version 6.0 needed to be corrected and updated. Becasue I was the sole glaciologist to manually correct this dataset, there is now a heightened level of cosistency that has never before been present in a global glacier dataset. 
+In order to derive a global debris cover map at an operative quality, the Randolph Glacier Inventory Version 6.0 needed to be corrected and updated. Because I was the sole glaciologist to manually correct this dataset, there is now a heightened level of consistency that has never before been present in a global glacier dataset. 
 
 With a high confidence map of glacier area and debris cover, an equilibrium line estimate can be made for glaciers with sufficient debris cover. 
 
