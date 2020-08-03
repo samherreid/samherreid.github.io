@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020 All photos and figures by Sam Herreid (profile photo by M. Schlapfer, glacier bike thumbnail by S. Bridwell)</copyright>
-    <lastBuildDate>Tue, 01 May 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2020 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The state of rock debris covering Earth&#39;s glaciers</title>
+      <link>/publication/global/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/global/</guid>
+      <description>Rock debris can accumulate on glacier surfaces and dramatically reduce glacier melt. The structure of a debris cover is unique to each glacier and sensitive to climate. Despite this, debris cover has been omitted from global glacier models and forecasts of their response to a changing climate. Fundamental to resolving these omissions is a global map of debris cover and an estimate of its future spatial evolution. Here we use Landsat imagery and a detailed correction to the Randolph Glacier Inventory to show that 7.</description>
+    </item>
+    
+    <item>
+      <title>The state of rock debris covering Earth&#39;s glaciers</title>
+      <link>/publication/global_featured/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/global_featured/</guid>
+      <description>Rock debris can accumulate on glacier surfaces and dramatically reduce glacier melt. The structure of a debris cover is unique to each glacier and sensitive to climate. Despite this, debris cover has been omitted from global glacier models and forecasts of their response to a changing climate. Fundamental to resolving these omissions is a global map of debris cover and an estimate of its future spatial evolution. Here we use Landsat imagery and a detailed correction to the Randolph Glacier Inventory to show that 7.</description>
+    </item>
+    
+    <item>
+      <title>Automated detection of ice cliffs within supraglacial debris cover</title>
+      <link>/icecliffs_featured_old/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/icecliffs_featured_old/</guid>
+      <description>Ice cliffs within a supraglacial debris cover have been identified as a source for high ablation relative to the surrounding debris-covered area. Due to their small relative size and steep orientation, ice cliffs are difficult to detect using nadir-looking space borne sensors. The method presented here uses surface slopes calculated from digital elevation model (DEM) data to map ice cliff geometry and produce an ice cliff probability map. Surface slope thresholds, which can be sensitive to geographic location and/or data quality, are selected automatically.</description>
+    </item>
     
     <item>
       <title>Automated detection of ice cliffs within supraglacial debris cover</title>
@@ -18,15 +45,6 @@
       <pubDate>Tue, 01 May 2018 00:00:00 -0400</pubDate>
       
       <guid>/publication/icecliffs/</guid>
-      <description>Ice cliffs within a supraglacial debris cover have been identified as a source for high ablation relative to the surrounding debris-covered area. Due to their small relative size and steep orientation, ice cliffs are difficult to detect using nadir-looking space borne sensors. The method presented here uses surface slopes calculated from digital elevation model (DEM) data to map ice cliff geometry and produce an ice cliff probability map. Surface slope thresholds, which can be sensitive to geographic location and/or data quality, are selected automatically.</description>
-    </item>
-    
-    <item>
-      <title>Automated detection of ice cliffs within supraglacial debris cover</title>
-      <link>/publication/icecliffs_featured/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/publication/icecliffs_featured/</guid>
       <description>Ice cliffs within a supraglacial debris cover have been identified as a source for high ablation relative to the surrounding debris-covered area. Due to their small relative size and steep orientation, ice cliffs are difficult to detect using nadir-looking space borne sensors. The method presented here uses surface slopes calculated from digital elevation model (DEM) data to map ice cliff geometry and produce an ice cliff probability map. Surface slope thresholds, which can be sensitive to geographic location and/or data quality, are selected automatically.</description>
     </item>
     

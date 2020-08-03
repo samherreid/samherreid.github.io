@@ -11,21 +11,47 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>The state of rock debris covering Earth&#39;s glaciers</title>
+      <link>/publication/global/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/global/</guid>
+      <description>&lt;p&gt;Rock debris can accumulate on glacier surfaces and dramatically reduce glacier melt. The structure of a debris cover is unique to each glacier and sensitive to climate. Despite this, debris cover has been omitted from global glacier models and forecasts of their response to a changing climate. Fundamental to resolving these omissions is a global map of debris cover and an estimate of its future spatial evolution. Here we use Landsat imagery and a detailed correction to the Randolph Glacier Inventory to show that 7.3% of mountain glacier area is debris-covered and over half of Earth’s debris is concentrated in three regions: Alaska (38.6% of total debris-covered area), Southwest Asia (12.6%) and Greenland (12.0%). We use a set of new metrics including stage, the current position of a glacier on its trajectory towards reaching its spatial debris cover carrying capacity, to quantify the state of glaciers. Debris cover is present on 44% of Earth’s glaciers and prominent (&amp;gt;1.0 km2) on 15%. 20% of Earth’s glaciers have a substantial percentage of debris cover for which net stage is 36% and the bulk of individual glaciers have evolved beyond an optimal moraine configuration favorable for debris cover expansion. Use of this dataset in global scale models will enable improved estimates of melt over 10.6% of the global glacier domain.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;website_global.jpg&#34; width=&#34;2000&#34; height=&#34;2000&#34; /&gt;
+The state and evolution trajectory of Earth&amp;rsquo;s glaciers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The state of rock debris covering Earth&#39;s glaciers</title>
+      <link>/publication/global_featured/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/global_featured/</guid>
+      <description>&lt;p&gt;Rock debris can accumulate on glacier surfaces and dramatically reduce glacier melt. The structure of a debris cover is unique to each glacier and sensitive to climate. Despite this, debris cover has been omitted from global glacier models and forecasts of their response to a changing climate. Fundamental to resolving these omissions is a global map of debris cover and an estimate of its future spatial evolution. Here we use Landsat imagery and a detailed correction to the Randolph Glacier Inventory to show that 7.3% of mountain glacier area is debris-covered and over half of Earth’s debris is concentrated in three regions: Alaska (38.6% of total debris-covered area), Southwest Asia (12.6%) and Greenland (12.0%). We use a set of new metrics including stage, the current position of a glacier on its trajectory towards reaching its spatial debris cover carrying capacity, to quantify the state of glaciers. Debris cover is present on 44% of Earth’s glaciers and prominent (&amp;gt;1.0 km2) on 15%. 20% of Earth’s glaciers have a substantial percentage of debris cover for which net stage is 36% and the bulk of individual glaciers have evolved beyond an optimal moraine configuration favorable for debris cover expansion. Use of this dataset in global scale models will enable improved estimates of melt over 10.6% of the global glacier domain.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;website_global.jpg&#34; width=&#34;2000&#34; height=&#34;2000&#34; /&gt;
+The state and evolution trajectory of Earth&amp;rsquo;s glaciers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Automated detection of ice cliffs within supraglacial debris cover</title>
-      <link>/publication/icecliffs/</link>
+      <link>/icecliffs_featured_old/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>/publication/icecliffs/</guid>
+      <guid>/icecliffs_featured_old/</guid>
       <description>&lt;p&gt;Ice cliffs within a supraglacial debris cover have been identified as a source for high ablation relative to the surrounding debris-covered area. Due to their small relative size and steep orientation, ice cliffs are difficult to detect using nadir-looking space borne sensors. The method presented here uses surface slopes calculated from digital elevation model (DEM) data to map ice cliff geometry and produce an ice cliff probability map. Surface slope thresholds, which can be sensitive to geographic location and/or data quality, are selected automatically. The method also attempts to include area at the (often narrowing) ends of ice cliffs which could otherwise be neglected due to signal saturation in surface slope data. The method was calibrated in the Eastern Alaska Range, Alaska, USA, against a control ice cliff dataset derived from high resolution visible and thermal data. Using the same input parameter set that performed best in Alaska, the method was tested against ice cliffs manually mapped in the Khumbu Himal, Nepal. Our results suggest the method can accommodate different glaciological settings and different DEM data sources without a data intensive (high resolution, multi-data source) re-calibration.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Automated detection of ice cliffs within supraglacial debris cover</title>
-      <link>/publication/icecliffs_featured/</link>
+      <link>/publication/icecliffs/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>/publication/icecliffs_featured/</guid>
+      <guid>/publication/icecliffs/</guid>
       <description>&lt;p&gt;Ice cliffs within a supraglacial debris cover have been identified as a source for high ablation relative to the surrounding debris-covered area. Due to their small relative size and steep orientation, ice cliffs are difficult to detect using nadir-looking space borne sensors. The method presented here uses surface slopes calculated from digital elevation model (DEM) data to map ice cliff geometry and produce an ice cliff probability map. Surface slope thresholds, which can be sensitive to geographic location and/or data quality, are selected automatically. The method also attempts to include area at the (often narrowing) ends of ice cliffs which could otherwise be neglected due to signal saturation in surface slope data. The method was calibrated in the Eastern Alaska Range, Alaska, USA, against a control ice cliff dataset derived from high resolution visible and thermal data. Using the same input parameter set that performed best in Alaska, the method was tested against ice cliffs manually mapped in the Khumbu Himal, Nepal. Our results suggest the method can accommodate different glaciological settings and different DEM data sources without a data intensive (high resolution, multi-data source) re-calibration.&lt;/p&gt;
 </description>
     </item>
@@ -88,7 +114,7 @@ in the near future.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;2016: Northumbria University PhD fieldwork funding&lt;/li&gt;
 &lt;li&gt;2013 - 2014: Undergraduate Research &amp;amp; Scholarly Activity (URSA) research grant. &amp;ldquo;Developing a multi-method approach to improve regional-scale glacier melt estimates by considering debris cover&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;2012: University of Alaska Fairbanks &lt;a href=&#34;https://www.uaf.edu/files/uafgov/Attachment_227_2_TAB_Committee_Report_April_2012.pdf&#34; target=&#34;_blank&#34;&gt;Technology Advisory Board (TAB)&lt;/a&gt;  equipment grant. “Thermal camera for student use.”&lt;/li&gt;
+&lt;li&gt;2012: University of Alaska Fairbanks &lt;a href=&#34;https://www.uaf.edu/uafgov/files/staff-council/meetings/fy12/sc227/Attachment_227_2_TAB_Committee_Report_April_2012.pdf&#34; target=&#34;_blank&#34;&gt;Technology Advisory Board (TAB)&lt;/a&gt;  equipment grant. “Thermal camera for student use.”&lt;/li&gt;
 &lt;li&gt;2011 - 2012: University of Alaska Fairbanks Undergraduate Research &amp;amp; Scholarly Activity (URSA) research grant. &amp;ldquo;Differential melt of debris-covered glaciers in the Alaska Range.&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;2010 - 2012: University of Alaska Fairbanks &lt;a href=&#34;http://www.cgc.uaf.edu/student_grant/awardees-2010.htm&#34; target=&#34;_blank&#34;&gt;Center for Global Change&lt;/a&gt; research grant. &amp;ldquo;Effects of debris cover on glaciers in Alaska&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
@@ -113,7 +139,18 @@ in the near future.&lt;/p&gt;
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/project/global/</guid>
-      <description></description>
+      <description>&lt;p&gt;In order to derive a global debris cover map at an operative quality, the Randolph Glacier Inventory Version 6.0 needed to be corrected and updated. Becasue I was the sole glaciologist to manually correct this dataset, there is now a heightened level of cosistency that has never before been present in a global glacier dataset.&lt;/p&gt;
+
+&lt;p&gt;With a high confidence map of glacier area and debris cover, an equilibrium line estimate can be made for glaciers with sufficient debris cover.&lt;/p&gt;
+
+&lt;p&gt;After the derivation of each galcier&amp;rsquo;s equilibrium line, the accumulation area ratio (AAR), a metrics of glacier health, can be calculated.&lt;/p&gt;
+
+&lt;p&gt;From here I was able to diverge from the common, and not-so-informative, metric &amp;ldquo; percent debris-covered&amp;rdquo;  to define 5 new metrics, that, together, describe the state and geometric configuration of each glacier&amp;rsquo;s debris cover. These new metrics are defined below with examples from around the world.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;fig3-01.jpg&#34; width=&#34;2000&#34; height=&#34;2000&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The updated RGI, debris maps and per-glacier metric values are all available for all glacierized regions on Earth &lt;a href=&#34;https://doi.org/10.5281/zenodo.3866466&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -427,26 +464,6 @@ Figure 1: A fancy pie chart.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Satellite observations show no net change in the percentage of supraglacial debris-covered area in northern Pakistan from 1977 to 2014</title>
-      <link>/publication/pakistan/</link>
-      <pubDate>Wed, 01 Apr 2015 00:00:00 -0400</pubDate>
-      
-      <guid>/publication/pakistan/</guid>
-      <description>&lt;p&gt;Spatial evolution of supraglacial debris cover on mountain glaciers is a largely unmonitored and poorly understood phenomenon that directly affects glacier melt. Supraglacial debris cover for 93 glaciers in the Karakoram, northern Pakistan, was mapped from Landsat imagery acquired in 1977, 1998, 2009 and 2014. Surge-type glaciers occupy 41% of the study area and were considered separately. The time series of debris-covered surface area change shows a mean value of zero or near-zero change for both surging and non-surging glaciers. An increase in debris-covered area is often associated with negative regional mass balances. We extend this logic to suggest that the stable regional mass balances in the Karakoram explain the zero or near-zero change in debris-covered area. This coupling of trends combined with our 37 year time series of data suggests the Karakoram anomaly extends further back in time than previously known.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Derivation and analysis of a complete modern-date glacier inventory for Alaska and northwest Canada</title>
-      <link>/publication/akinventory/</link>
-      <pubDate>Sun, 01 Feb 2015 00:00:00 -0500</pubDate>
-      
-      <guid>/publication/akinventory/</guid>
-      <description>&lt;p&gt;We present a detailed, complete glacier inventory for Alaska and neighboring Canada using multi-sensor satellite data from 2000 to 2011. For each glacier, we derive outlines and 51 variables, including center-line lengths, outline types and debris cover. We find 86 723 km2 of glacier area (27 109 glaciers &amp;gt;0.025 km2), ∼12% of the global glacierized area outside ice sheets. Of this area 12.0% is drained by 39 marine-terminating glaciers (74 km of tidewater margin), and 19.3% by 148 lake- and river-terminating glaciers (420 km of lake-/river margin). The overall debris cover is 11%, with considerable differences among regions, ranging from 1.4% in the Kenai Mountains to 28% in the Central Alaska Range. Comparison of outlines from different sources on &amp;gt;2500 km2 of glacierized area yields a total area difference of ∼10%, emphasizing the difficulties in accurately delineating debris-covered glaciers. Assuming fully correlated (systematic) errors, uncertainties in area reach 6% for all Alaska glaciers, but further analysis is needed to explore adequate error correlation scales. Preliminary analysis of the glacier database yields a new set of well-constrained area/length scaling parameters and shows good agreement between our area–altitude distributions and previously established synthetic hypsometries. The new glacier database will be valuable to further explore relations between glacier variables and glacier behavior.&lt;/p&gt;
 </description>
     </item>
     

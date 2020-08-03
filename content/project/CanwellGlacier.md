@@ -43,7 +43,7 @@ In the infancy of the program, supplies and trips relied on self-funding, I was 
 
 - 2016: Northumbria University PhD fieldwork funding
 - 2013 - 2014: Undergraduate Research & Scholarly Activity (URSA) research grant. "Developing a multi-method approach to improve regional-scale glacier melt estimates by considering debris cover"
-- 2012: University of Alaska Fairbanks [Technology Advisory Board (TAB)](https://www.uaf.edu/files/uafgov/Attachment_227_2_TAB_Committee_Report_April_2012.pdf)  equipment grant. “Thermal camera for student use.”
+- 2012: University of Alaska Fairbanks [Technology Advisory Board (TAB)](https://www.uaf.edu/uafgov/files/staff-council/meetings/fy12/sc227/Attachment_227_2_TAB_Committee_Report_April_2012.pdf)  equipment grant. “Thermal camera for student use.”
 - 2011 - 2012: University of Alaska Fairbanks Undergraduate Research & Scholarly Activity (URSA) research grant. "Differential melt of debris-covered glaciers in the Alaska Range."
 - 2010 - 2012: University of Alaska Fairbanks [Center for Global Change](http://www.cgc.uaf.edu/student_grant/awardees-2010.htm) research grant. "Effects of debris cover on glaciers in Alaska"
 
