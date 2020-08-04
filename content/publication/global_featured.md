@@ -40,7 +40,7 @@ url_pdf = "https://www.nature.com/articles/s41561-020-0615-0"
 # url_custom = [{name = "Article", url = "https://www.nature.com/articles/s41561-020-0615-0"}]
 #url_preprint = ""
 # url_code = "https://github.com/samherreid/DebrisCoverTools"
-url_custom = [{name = "Supplemental", url = "https://www.nature.com/articles/s41561-020-0615-0"}]
+url_custom = [{name = "Supplemental", url = "https://static-content.springer.com/esm/art%3A10.1038%2Fs41561-020-0615-0/MediaObjects/41561_2020_615_MOESM1_ESM.pdf"}]
 url_dataset = "https://doi.org/10.5281/zenodo.3866466"
 #url_project = "#"
 #url_slides = "#"
