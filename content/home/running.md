@@ -38,8 +38,8 @@ No races scheduled.
 
 **Writing**
 
-I wrote a [short commentary](https://trailrunnermag.com/destinations/international/a-glaciologist-in-chamonix.html) in the February 2020 edition of Trail Runner Magazine on the tangible evidence of a changing climate someone running in an alpine setting will encounter. 
+I wrote a [short commentary](https://trailrunnermag.com/destinations/international/a-glaciologist-in-chamonix.html) in the February 2020 edition of Trail Runner Magazine on the tangible evidence of a changing climate someone running in an alpine setting will encounter.
 
-**Coaching**
+[Dakota Jones](https://www.clifbar.com/athletes/dakota-jones) recently wrote [a blog post](https://thatdakotajones.medium.com/a-glacier-scientist-goes-running-e9adc3ede38c) that tells the story of my mixing science and running in the context of energy and climate education.  
 
-For the past 1.5 years I have been coaching runners online, from beginners to contenders in international trail races. My full access coaching (meaning we touch base every day) is centered around enjoying the process of running while building a sustainable volume of kilometers/miles per week that accumulate into shockingly high numbers over months and years. I coach runners in Alaska, New York, England and Switzerland. Send me an email if you'd like to know more!  
+

@@ -66,7 +66,7 @@ enableGitInfo = false
   avatar = "20200402_180253.jpg"
   #avatar = "Norway.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "samherreid@gmail.com"
-  address = "Today - 01 October 2020"
+  address = "Today - foreseeable future"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
   #skype = "echo123"
@@ -112,8 +112,8 @@ enableGitInfo = false
   #latitude = "46.800404"
   #longitude = "9.831741"
   # New York 
-  latitude = "40.194399"
-  longitude = "-74.008332"
+  latitude = "40.205842"
+  longitude = "-74.007918"
   zoom = 13
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )

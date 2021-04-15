@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>What can thermal imagery tell us about glacier melt below rock debris? (In review)</title>
+      <link>/publication/thermal/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/thermal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The state of rock debris covering Earth&#39;s glaciers</title>
       <link>/publication/global/</link>
       <pubDate>Mon, 03 Aug 2020 00:00:00 -0400</pubDate>
@@ -416,54 +425,6 @@ git submodule update --init --recursive
       <description>&lt;p&gt;&lt;img src=&#34;speedup_fig.jpg&#34; width=&#34;2000&#34; height=&#34;2000&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Surge‐type glaciers are loosely defined as glaciers that experience periodic alterations between slow and fast flow regimes. Glaciers from a variety of mountain ranges around the world have been classified as surge type, yet consensus of what defines a glacier as surge type has not always been met. A common source of dispute is the lack of a succinct and globally applicable delimiter between a surging and nonsurging glacier. The attempt is often a Boolean classification; however, glacier speedup events can vary significantly with respect to event magnitude, duration, and the fraction of the glacier that participates in the speedup. For this study, we first updated the inventory of glaciers that show flow instabilities in the Alaska Range and then quantified the spectrum of speedup behavior. We developed a new method that automatically detects glaciers with flow instabilities. Our automated results show a 91% success rate when compared to direct observations of speedup events and glaciers that are suspected to display unstable flow based on surface features. Through a combination of observations from the Landsat archive and previously published data, our inventory now contains 36 glaciers that encompass at least one branch exhibiting unstable flow and we document 53 speedup events that occurred between 1936 and 2014. We then present a universal method for comparing glacier speedup events based on a normalized event magnitude metric. This method provides a consistent way to include and quantify the full spectrum of speedup events and allows for comparisons with glaciers that exhibit clear surge characteristics yet have no observed surge event to date. Our results show a continuous spectrum of speedup magnitudes, from steady flow to clearly surge type, which suggests that qualitative classifications, such as “surge‐type” or “pulse‐type” behavior, might be too simplistic and should be accompanied by a standardized magnitude metric.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;R Markdown&lt;/h1&gt;
-&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-fit &amp;lt;- lm(dist ~ speed, data = cars)
-fit
-## 
-## Call:
-## lm(formula = dist ~ speed, data = cars)
-## 
-## Coefficients:
-## (Intercept)        speed  
-##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Including Plots&lt;/h1&gt;
-&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
-  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
-  init.angle = -50, border = NA
-)&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 1: A fancy pie chart.
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
 </description>
     </item>
     
