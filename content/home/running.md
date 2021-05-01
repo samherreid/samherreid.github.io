@@ -35,6 +35,7 @@ alt="strava" /></a>
 
 No races scheduled.
 
+But there was a [2021 FKT!](https://fastestknowntime.com/fkt/sam-herreid-delaware-raritan-canal-trail-nj-2021-04-05) 
 
 **Writing**
 
