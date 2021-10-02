@@ -1,5 +1,5 @@
 +++
-title = "What can thermal imagery tell us about glacier melt below rock debris? (In review)"
+title = "What can thermal imagery tell us about glacier melt below rock debris?"
 date = 2021-03-15T00:00:00
 
 # Authors. Comma separated list, e.g. `["Sam Herreid"]`.
