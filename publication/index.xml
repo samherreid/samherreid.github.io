@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>What can thermal imagery tell us about glacier melt below rock debris?</title>
+      <link>/publication/thermal_featured/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/thermal_featured/</guid>
+      <description>Text</description>
+    </item>
+    
+    <item>
       <title>The state of rock debris covering Earth&#39;s glaciers</title>
       <link>/publication/global/</link>
       <pubDate>Mon, 03 Aug 2020 00:00:00 -0400</pubDate>
@@ -50,19 +59,19 @@
     
     <item>
       <title>Automated detection of unstable glacier flow and a spectrum of speedup behavior in the Alaska Range</title>
-      <link>/publication/surge/</link>
+      <link>/publication/old_featured/surge_featured/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
       
-      <guid>/publication/surge/</guid>
+      <guid>/publication/old_featured/surge_featured/</guid>
       <description>Surge‐type glaciers are loosely defined as glaciers that experience periodic alterations between slow and fast flow regimes. Glaciers from a variety of mountain ranges around the world have been classified as surge type, yet consensus of what defines a glacier as surge type has not always been met. A common source of dispute is the lack of a succinct and globally applicable delimiter between a surging and nonsurging glacier. The attempt is often a Boolean classification; however, glacier speedup events can vary significantly with respect to event magnitude, duration, and the fraction of the glacier that participates in the speedup.</description>
     </item>
     
     <item>
       <title>Automated detection of unstable glacier flow and a spectrum of speedup behavior in the Alaska Range</title>
-      <link>/publication/surge_featured/</link>
+      <link>/publication/surge/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
       
-      <guid>/publication/surge_featured/</guid>
+      <guid>/publication/surge/</guid>
       <description>Surge‐type glaciers are loosely defined as glaciers that experience periodic alterations between slow and fast flow regimes. Glaciers from a variety of mountain ranges around the world have been classified as surge type, yet consensus of what defines a glacier as surge type has not always been met. A common source of dispute is the lack of a succinct and globally applicable delimiter between a surging and nonsurging glacier. The attempt is often a Boolean classification; however, glacier speedup events can vary significantly with respect to event magnitude, duration, and the fraction of the glacier that participates in the speedup.</description>
     </item>
     

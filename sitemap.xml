@@ -14,6 +14,15 @@
     
     <url>
     
+      <loc>/publication/thermal_featured/</loc>
+      <lastmod>2021-01-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/global/</loc>
       <lastmod>2020-08-03T00:00:00-04:00</lastmod>
     </url>
@@ -149,7 +158,7 @@
     
     <url>
     
-      <loc>/publication/surge/</loc>
+      <loc>/publication/old_featured/surge_featured/</loc>
       <lastmod>2016-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -158,7 +167,7 @@
     
     <url>
     
-      <loc>/publication/surge_featured/</loc>
+      <loc>/publication/surge/</loc>
       <lastmod>2016-01-01T00:00:00-05:00</lastmod>
     </url>
     
