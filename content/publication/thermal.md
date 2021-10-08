@@ -24,7 +24,7 @@ publication_short = "*Frontiers in Earth Science*"
 abstract = ""
 
 # Featured image thumbnail (optional)
-image_preview = "headers/canwellTs.gif"
+# image_preview = "headers/canwellTs.gif"
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -65,6 +65,8 @@ caption = "Canwell Glacier, Alaska Range."
 # July 29th, 2016 11:00 AM local Alaska time.
 
 +++
+
+Oblique image of Canwell Glacier from the same helicopter flight used to capture the (straight downward-looking) images above (July 29th, 2016 11:00 AM local Alaska time).
 
 <img src="canObli.jpg" width="2000" height="2000" />
 
