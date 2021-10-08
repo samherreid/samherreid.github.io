@@ -33,14 +33,12 @@ alt="strava" /></a>
 
 **Upcoming:**
 
-No races scheduled.
+Brooklyn Marathon, April 24th 2022
 
-But there was a [2021 FKT!](https://fastestknowntime.com/fkt/sam-herreid-delaware-raritan-canal-trail-nj-2021-04-05) 
+[2021 Delaware-Raritan Canal Trail FKT](https://fastestknowntime.com/fkt/sam-herreid-delaware-raritan-canal-trail-nj-2021-04-05) 
 
 **Writing**
 
+[Dakota Jones](https://www.clifbar.com/athletes/dakota-jones) wrote [a blog post](https://thatdakotajones.medium.com/a-glacier-scientist-goes-running-e9adc3ede38c) that tells the story of my mixing science and running in the context of energy and climate education.  
+
 I wrote a [short commentary](https://trailrunnermag.com/destinations/international/a-glaciologist-in-chamonix.html) in the February 2020 edition of Trail Runner Magazine on the tangible evidence of a changing climate someone running in an alpine setting will encounter.
-
-[Dakota Jones](https://www.clifbar.com/athletes/dakota-jones) recently wrote [a blog post](https://thatdakotajones.medium.com/a-glacier-scientist-goes-running-e9adc3ede38c) that tells the story of my mixing science and running in the context of energy and climate education.  
-
-
