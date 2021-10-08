@@ -6,7 +6,7 @@
     <description>Recent content in Publications on Sam Herreid</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2020 All photos and figures by Sam Herreid (profile photo by M. Schlapfer, glacier bike thumbnail by S. Bridwell)</copyright>
+    <copyright>&amp;copy; 2021 All photos and figures by Sam Herreid (profile photo by M. Schlapfer, glacier bike thumbnail by S. Bridwell)</copyright>
     <lastBuildDate>Mon, 15 Mar 2021 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
@@ -55,15 +55,6 @@
       
       <guid>/publication/icecliffs/</guid>
       <description>Ice cliffs within a supraglacial debris cover have been identified as a source for high ablation relative to the surrounding debris-covered area. Due to their small relative size and steep orientation, ice cliffs are difficult to detect using nadir-looking space borne sensors. The method presented here uses surface slopes calculated from digital elevation model (DEM) data to map ice cliff geometry and produce an ice cliff probability map. Surface slope thresholds, which can be sensitive to geographic location and/or data quality, are selected automatically.</description>
-    </item>
-    
-    <item>
-      <title>Automated detection of unstable glacier flow and a spectrum of speedup behavior in the Alaska Range</title>
-      <link>/publication/old_featured/surge_featured/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
-      
-      <guid>/publication/old_featured/surge_featured/</guid>
-      <description>Surge‐type glaciers are loosely defined as glaciers that experience periodic alterations between slow and fast flow regimes. Glaciers from a variety of mountain ranges around the world have been classified as surge type, yet consensus of what defines a glacier as surge type has not always been met. A common source of dispute is the lack of a succinct and globally applicable delimiter between a surging and nonsurging glacier. The attempt is often a Boolean classification; however, glacier speedup events can vary significantly with respect to event magnitude, duration, and the fraction of the glacier that participates in the speedup.</description>
     </item>
     
     <item>

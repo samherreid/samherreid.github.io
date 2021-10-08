@@ -11,7 +11,7 @@ title = "Sam Herreid"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2020 All photos and figures by Sam Herreid (profile photo by M. Schlapfer, glacier bike thumbnail by S. Bridwell)"
+copyright = "&copy; 2021 All photos and figures by Sam Herreid (profile photo by M. Schlapfer, glacier bike thumbnail by S. Bridwell)"
 
 theme = "hugo-academic"
 enableEmoji = true
