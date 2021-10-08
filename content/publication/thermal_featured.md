@@ -61,7 +61,7 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "canwellTsScale.gif"
-caption = "Gakona Glacier, Alaska Range."
+caption = "Canwell Glacier, Alaska Range."
 # July 29th, 2016 11:00 AM local Alaska time.
 
 +++
