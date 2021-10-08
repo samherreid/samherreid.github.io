@@ -18,6 +18,8 @@ weight = 60
 
 **Past:**
 
+[2021 Delaware-Raritan Canal Trail FKT](https://fastestknowntime.com/fkt/sam-herreid-delaware-raritan-canal-trail-nj-2021-04-05)
+
 <a href="https://itra.run/community/sam.herreid/1714633/111043/" class="itra-badge- itra-badge-follow" target="_blank"><img src="home/itralogo.jpg" 
 height="65" 
 width="70"
@@ -34,8 +36,6 @@ alt="strava" /></a>
 **Upcoming:**
 
 Brooklyn Marathon, April 24th 2022
-
-[2021 Delaware-Raritan Canal Trail FKT](https://fastestknowntime.com/fkt/sam-herreid-delaware-raritan-canal-trail-nj-2021-04-05) 
 
 **Writing**
 
