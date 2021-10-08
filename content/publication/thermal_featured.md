@@ -24,7 +24,7 @@ publication_short = "*Frontiers in Earth Science*"
 abstract = ""
 
 # Featured image thumbnail (optional)
-image_preview = "headers/canwellTsScale.gif"
+image_preview = "headers/canwellTs.gif"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -60,7 +60,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "canwellTs.gif"
+image = "canwellTsScale.gif"
 caption = "Gakona Glacier, Alaska Range, July 29th, 2016 11:00 AM local Alaska time."
 
 +++
