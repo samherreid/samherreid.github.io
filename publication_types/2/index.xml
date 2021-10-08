@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2021 All photos and figures by Sam Herreid (profile photo by M. Schlapfer, glacier bike thumbnail by S. Bridwell)</copyright>
-    <lastBuildDate>Mon, 15 Mar 2021 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 30 Aug 2021 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>What can thermal imagery tell us about glacier melt below rock debris?</title>
       <link>/publication/thermal/</link>
-      <pubDate>Mon, 15 Mar 2021 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 -0400</pubDate>
       
       <guid>/publication/thermal/</guid>
       <description></description>
@@ -24,10 +24,10 @@
     <item>
       <title>What can thermal imagery tell us about glacier melt below rock debris?</title>
       <link>/publication/thermal_featured/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 -0400</pubDate>
       
       <guid>/publication/thermal_featured/</guid>
-      <description>Text</description>
+      <description>Rock debris on the surface of a glacier can dramatically reduce the local melt rate, where the primary factor governing melt reduction is debris layer thickness. Relating surface temperature to debris thickness is a recurring approach in the literature, yet demonstrations of reproducibility have been limited. Here, I present the results of a field experiment conducted on the Canwell Glacier, Alaska, United States to constrain how thermal data can be used in glaciology.</description>
     </item>
     
     <item>

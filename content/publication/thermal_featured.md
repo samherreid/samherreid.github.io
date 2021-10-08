@@ -33,7 +33,7 @@ selected = true
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename of your project in `content/project/`.
 #   Otherwise, set `projects = []`.
-projects = ["thermal"]
+projects = ["thermal","CanwellGlacier"]
 
 # Links (optional).
 url_pdf = "https://www.frontiersin.org/articles/10.3389/feart.2021.681059/pdf"
