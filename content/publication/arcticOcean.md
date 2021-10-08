@@ -2,8 +2,8 @@
 title = "Losing the Arctic (Book Chapter)"
 date = 2021-05-04T00:00:00
 
-# Authors. Comma separated list, e.g. `["Elizaveta Ershova", "Sam Herreid"]`.
-authors = ["Elizaveta Ershova", "**Sam Herreid**"]
+# Authors. Comma separated list, e.g. `["Elizaveta Ershova and Sam Herreid"]`.
+authors = ["Elizaveta Ershova and **Sam Herreid**"]
 
 # Publication type.
 # Legend:
