@@ -3,7 +3,7 @@ title = "What can thermal imagery tell us about glacier melt below rock debris?"
 date = 2021-08-30T00:00:00
 
 # Authors. Comma separated list, e.g. `["Sam Herreid]`.
-authors = ["Sam Herreid"]
+authors = ["**Sam Herreid**"]
 
 # Publication type.
 # Legend:
