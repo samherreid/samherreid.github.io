@@ -66,8 +66,8 @@ caption = "Canwell Glacier, Alaska Range."
 
 +++
 
-Oblique image of Canwell Glacier from the same helicopter flight used to capture the (straight downward-looking) images above (July 29th, 2016 11:00 AM local Alaska time).
 
+[Below] Oblique image of Canwell Glacier from the same helicopter flight used to capture the (straight downward-looking) images above (July 29th, 2016 11:00 AM local Alaska time).
 <img src="canObli.jpg" width="2000" height="2000" />
 
 
