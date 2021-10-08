@@ -14,7 +14,7 @@ authors = ["Elizaveta Ershova", "**Sam Herreid**"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["6"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*“Whither the Arctic Ocean” (Ed. P. Wassmann)*"
