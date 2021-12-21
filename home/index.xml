@@ -55,13 +55,12 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/press/</guid>
-      <description>Phys.org Blanket of rock debris offers glaciers more protection from climate change than previously known
+      <description>Washington Post An Alaska glacier hurtles downhill in a rare exhibition of ‘this amazing science’
+Phys.org Blanket of rock debris offers glaciers more protection from climate change than previously known
 Jungfrau Zeitung (Switzerland) Hälfte der Gletscher weltweit mit Schutt bedeckt (Language: DE)
 Tages Anzeiger (Switzerland) Wie Schutt die Gletscherschmelze beeinflusst (Language: DE)
 Der Standard (Austria) Herumliegender Schutt lässt Gletscher langsamer schmelzen (Language: DE)
-El Mercurio (Chile) Una frazada para el glaciar (Language: ES)
-教育 新闻 网 岩屑毯为冰川提供了更多的保护 使其免受气候变化的影响 (Language: CMN)
-Middle East business and financial news British-Swiss study reveals more glacier-shielding rock debris</description>
+El Mercurio (Chile) Una frazada para el glaciar (Language: ES)</description>
     </item>
     
     <item>
@@ -98,16 +97,17 @@ Middle East business and financial news British-Swiss study reveals more glacier
       
       <guid>/home/running/</guid>
       <description>Past:
+   * { box-sizing: border-box; }
+.column { float: left; width: 33.33%; padding: 5px; }
+/* Clearfix (clear floats) */ .row::after { content: &amp;ldquo;&amp;rdquo;; clear: both; display: table; }   
+My running since buying a Suunto watch in 2019: (Yellow = run; blue = openwater ocean swim; green: bike)
+     
 2021 Delaware-Raritan Canal Trail FKT
 
 Current:
 
 Upcoming:
-Brooklyn Marathon, April 24th 2022
-Writing
-My first comedy writing, a pro-litter yet somehow still environmentally conscientious piece, was published in October 2021 on irunfar.com.
-Dakota Jones wrote a blog post that tells the story of my mixing science and running in the context of energy and climate education.
-I wrote a short commentary in the February 2020 edition of Trail Runner Magazine on the tangible evidence of a changing climate someone running in an alpine setting will encounter.</description>
+Brooklyn Marathon, April 24th 2022</description>
     </item>
     
     <item>

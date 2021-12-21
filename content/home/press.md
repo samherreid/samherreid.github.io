@@ -17,7 +17,7 @@ weight = 30
 +++
 
 <img src="home/ngeoVol13.png" width="1000" height="1000" />
-
+**Washington Post** [An Alaska glacier hurtles downhill in a rare exhibition of ‘this amazing science’](https://www.washingtonpost.com/science/alaska-glacier-surge-muldrow-climate/2021/06/04/dade503a-c315-11eb-9a8d-f95d7724967c_story.html)  
 **Phys.org** [Blanket of rock debris offers glaciers more protection from climate change than previously known](https://phys.org/news/2020-08-blanket-debris-glaciers-climate-previously.html)  
 **Jungfrau Zeitung** (Switzerland) [Hälfte der Gletscher weltweit mit Schutt bedeckt](https://www.jungfrauzeitung.ch/artikel/183790/) (Language: DE)  
 **Tages Anzeiger** (Switzerland) [Wie Schutt die Gletscherschmelze beeinflusst](https://www.tagesanzeiger.ch/wie-schutt-die-gletscherschmelze-beeinflusst-968089837751) (Language: DE)  
@@ -38,6 +38,8 @@ weight = 30
 **science.orf.at** [Hälfte der Gletscher mit Schutt bedeckt](https://science.orf.at/stories/3201330/) (Language: DE)  
 **Tierwelt** [Hälfte der Gletscher weltweit mit Schutt bedeckt](https://www.tierwelt.ch/news/natur-umwelt/haelfte-der-gletscher-weltweit-mit-schutt-bedeckt) (Language: DE)  
 **Nau.ch** [Fast Hälfte der Gletscher weltweit mit Schutt bedeckt](https://www.nau.ch/news/forschung/fast-halfte-der-gletscher-weltweit-mit-schutt-bedeckt-65756555) (Language: DE)  
+**Anchorage Daily News** [Meet the man studying Alaska's glaciers by living on one each summer](https://www.adn.com/alaska-news/science/2016/09/17/meet-the-man-studying-alaskas-glaciers-by-living-on-one-for-a-few-days-at-a-time-each-summer/)  
+**Juneau Empire** [Alaska Science Forum: Living on a glacier, thinking about rocks](https://www.juneauempire.com/life/alaska-science-forum-living-on-a-glacier-thinking-about-rocks/)  
   
  
  
