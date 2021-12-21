@@ -3,7 +3,7 @@ title = "Automated detection of unstable glacier flow and a spectrum of speedup 
 date = 2016-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Sam Herreid", "Martin Truffer"]`.
-authors = ["Sam Herreid and Martin Truffer"]
+authors = ["**Sam Herreid** and Martin Truffer"]
 
 # Publication type.
 # Legend:

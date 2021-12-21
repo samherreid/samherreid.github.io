@@ -11,7 +11,7 @@ title = "Sam Herreid"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2021 All photos and figures by Sam Herreid (profile photo by M. Schlapfer, glacier bike thumbnail by S. Bridwell)"
+copyright = "&copy; 2022 All photos and figures by Sam Herreid (profile photo by M. Schlapfer, glacier bike thumbnail by S. Bridwell)"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -66,7 +66,7 @@ enableGitInfo = false
   avatar = "20200402_180253.jpg"
   #avatar = "Norway.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "samherreid@gmail.com"
-  address = "Today - foreseeable future"
+  address = "Today and for the foreseeable future"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
   #skype = "echo123"
@@ -242,10 +242,10 @@ enableGitInfo = false
     icon_pack = "fa"
     link = "mailto:samherreid@gmail.com"
 
-#  [[params.social]]
-#    icon = "linkedin"
-#    icon_pack = "fa"
-#    link = "https://linkedin.com/in/sam-herreid-55a8481a5"
+  [[params.social]]
+    icon = "instagram"
+    icon_pack = "fa"
+    link = "https://www.instagram.com/samherreid/"
 
   [[params.social]]
     icon = "google-scholar"
@@ -275,6 +275,11 @@ enableGitInfo = false
   name = "Publications"
   url = "#publications_selected"
   weight = 2
+
+[[menu.main]]
+  name = "Press & Writing"
+  url = "#press"
+  weight = 3
 
 #[[menu.main]]
 #  name = "Posts"

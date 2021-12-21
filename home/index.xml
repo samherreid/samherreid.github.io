@@ -6,7 +6,7 @@
     <description>Recent content in Homes on Sam Herreid</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2021 All photos and figures by Sam Herreid (profile photo by M. Schlapfer, glacier bike thumbnail by S. Bridwell)</copyright>
+    <copyright>&amp;copy; 2022 All photos and figures by Sam Herreid (profile photo by M. Schlapfer, glacier bike thumbnail by S. Bridwell)</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
@@ -50,6 +50,15 @@
     </item>
     
     <item>
+      <title>Press &amp; Writing</title>
+      <link>/home/press/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/press/</guid>
+      <description>Phys.org Blanket of rock debris offers glaciers more protection from climate change than previously known Jungfrau Zeitung (Switzerland) Hälfte der Gletscher weltweit mit Schutt bedeckt (Language: DE) Tages Anzeiger (Switzerland) Wie Schutt die Gletscherschmelze beeinflusst (Language: DE) Der Standard (Austria) Herumliegender Schutt lässt Gletscher langsamer schmelzen (Language: DE) EL mercurio (Chile) Una frazada para el glaciar (Language: ES) 教育 新闻 网 岩屑毯为冰川提供了更多的保护 使其免受气候变化的影响 (Language: CMN) Middle East business and financial news British-Swiss study reveals more glacier-shielding rock debris Kurier Hälfte der Gletscher weltweit mit Schutt bedeckt (Language: DE)</description>
+    </item>
+    
+    <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
@@ -90,6 +99,7 @@ Current:
 Upcoming:
 Brooklyn Marathon, April 24th 2022
 Writing
+My first comedy writing, a pro-litter yet somehow still environmentally conscientious piece, was published in October 2021 on irunfar.com.
 Dakota Jones wrote a blog post that tells the story of my mixing science and running in the context of energy and climate education.
 I wrote a short commentary in the February 2020 edition of Trail Runner Magazine on the tangible evidence of a changing climate someone running in an alpine setting will encounter.</description>
     </item>
