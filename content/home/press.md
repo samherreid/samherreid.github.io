@@ -16,7 +16,12 @@ weight = 30
 
 +++
 
-<img src="home/ngeoVol13.png" width="1000" height="1000" />
+<img src="home/ngeoVol13.png" width="1000" height="1000" />  
+<a href="https://www.nature.com/articles/s41561-020-0615-0" class="" target="_blank"><img src="home/ngeoVol13.png" 
+height="500" 
+width="500"
+alt="" /></a>
+  
 **Washington Post** [An Alaska glacier hurtles downhill in a rare exhibition of ‘this amazing science’](https://www.washingtonpost.com/science/alaska-glacier-surge-muldrow-climate/2021/06/04/dade503a-c315-11eb-9a8d-f95d7724967c_story.html)  
 **Phys.org** [Blanket of rock debris offers glaciers more protection from climate change than previously known](https://phys.org/news/2020-08-blanket-debris-glaciers-climate-previously.html)  
 **Jungfrau Zeitung** (Switzerland) [Hälfte der Gletscher weltweit mit Schutt bedeckt](https://www.jungfrauzeitung.ch/artikel/183790/) (Language: DE)  
