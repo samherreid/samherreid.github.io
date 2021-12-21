@@ -39,7 +39,7 @@ Brooklyn Marathon, April 24th 2022
 
 **Writing**
 
-My first comedy writing, a pro-litter yet somehow still environmentally conscientious piece, was published in October 2021 on [irunfar.com](https://www.irunfar.com/why-tamales-are-good-for-the-planet-the-trail-and-you).
+My [first comedy writing](https://www.irunfar.com/why-tamales-are-good-for-the-planet-the-trail-and-you), a pro-litter yet somehow still environmentally conscientious piece, was published in October 2021 on irunfar.com.
 
 [Dakota Jones](https://www.clifbar.com/athletes/dakota-jones) wrote [a blog post](https://thatdakotajones.medium.com/a-glacier-scientist-goes-running-e9adc3ede38c) that tells the story of my mixing science and running in the context of energy and climate education.  
 

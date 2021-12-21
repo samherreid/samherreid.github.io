@@ -51,6 +51,15 @@
     </item>
     
     <item>
+      <title>Mapping ice cliffs on debris-covered glaciers using multispectral satellite images</title>
+      <link>/publication/marincliffs/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/marincliffs/</guid>
+      <description>Ice cliffs play a key role in the mass balance of debris-covered glaciers, but assessing their importance is limited by a lack of datasets on their distribution and evolution at scales larger than an individual glacier. These datasets are often derived using operator-biased and time-consuming manual delineation approaches, despite the recent emergence of semi-automatic mapping methods. These methods have used elevation or multispectral data, but the varying slope and mixed spectral signal of these dynamic features makes the transferability of these ap-proaches particularly challenging.</description>
+    </item>
+    
+    <item>
       <title>The state of rock debris covering Earth&#39;s glaciers</title>
       <link>/publication/global/</link>
       <pubDate>Mon, 03 Aug 2020 00:00:00 -0400</pubDate>

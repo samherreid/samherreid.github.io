@@ -60,6 +60,16 @@
     </item>
     
     <item>
+      <title>Mapping ice cliffs on debris-covered glaciers using multispectral satellite images</title>
+      <link>/publication/marincliffs/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/marincliffs/</guid>
+      <description>&lt;p&gt;Ice cliffs play a key role in the mass balance of debris-covered glaciers, but assessing their importance is limited by a lack of datasets on their distribution and evolution at scales larger than an individual glacier. These datasets are often derived using operator-biased and time-consuming manual delineation approaches, despite the recent emergence of semi-automatic mapping methods. These methods have used elevation or multispectral data, but the varying slope and mixed spectral signal of these dynamic features makes the transferability of these ap-proaches particularly challenging. We develop three semi-automated and objective new approaches, based on the Spectral Curvature and Linear Spectral Unmixing of multispectral images, to map these features at a glacier to regional scale. The transferability of each method is assessed by applying it to three sites in the Himalaya, where debris-covered glaciers are  widespread, with  varying lithologic, glaciological and  climatic settings, and encompassing different periods of the melt season. We develop the new methods keeping in mind the wide range of remote sensing platforms currently in use, and focus in particular on two products: we apply the three ap-proaches at each site to near-contemporaneous atmospherically-corrected Pl ́eiades (2 m resolution) and Sentinel- 2 (10 m resolution) images and assess the effects of spatial and spectral resolution on the results. We find that the Spectral Curvature method works best  for  the  high  spatial resolution, four  band Pl ́eaides images, while a modification of the Linear Spectral Unmixing using the scaling factor of the unmixing is best for the coarser spatial resolution, but additional spectral information of Sentinel-2 products. In both cases ice cliffs are mapped with a Dice coefficient higher than 0.48. Comparison of the Pl ́eiades results with other existing methods shows that the Spectral Curvature approach performs better and is more robust than any other existing automated or semi-automated approaches. Both methods outline a high number of small, sometimes shallow-sloping and thinly debris-covered ice patches that differ from our traditional understanding of cliffs but may have non-negligible impact on the mass balance of debris-covered glaciers. Overall these results pave the way for large scale ef-forts of ice cliff mapping that can enable inclusion of these features in debris-covered glacier melt models, as well as allow the generation of multiple datasets to study processes of cliff formation, evolution and decline.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The state of rock debris covering Earth&#39;s glaciers</title>
       <link>/publication/global/</link>
       <pubDate>Mon, 03 Aug 2020 00:00:00 -0400</pubDate>
@@ -249,16 +259,6 @@ in the near future.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;Slide9.JPG&#34; width=&#34;800&#34; height=&#34;800&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;(e)&lt;/strong&gt; One of the several landslides deposited onto Gakona Glacier in 2002. Maybe it goes without saying, but the winter biking here turns out to be awful.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Thermal imagery in glaciology</title>
-      <link>/project/thermal/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/project/thermal/</guid>
-      <description>&lt;p&gt;The thumbnail image to this project is of fist to silt-sized clasts on an otherwise bare glacier ice surface. The thumbnail image falls within one or two pixels in the image above which is looking straight down from a helicopter with an image width of several hundred meters. High resolution thermal data holds many answers about debris cover but has received limited attention from glaciologists. Work that is in preparation will detail new methods for acquisition, processing and applications for glaciologists. Coming soon.&lt;/p&gt;
 </description>
     </item>
     
