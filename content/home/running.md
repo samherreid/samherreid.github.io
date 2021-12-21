@@ -18,46 +18,9 @@ weight = 60
 
 **Past:**
 
-<html>
-<head>
-<style>
-* {
-  box-sizing: border-box;
-}
 
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
+<img src="home/suunto.png" alt="" style="width:100%">
 
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-</head>
-<body>
-
-<p>My running since buying a Suunto watch in 2019:  
-(Yellow = run; blue = openwater ocean swim; green: bike)</p>
-
-<div class="row">
-  <div class="column">
-    <img src="home/2019.png" alt="" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="home/2020.png" alt="" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="home/2021.png" alt="" style="width:100%">
-  </div>
-</div>
-
-</body>
-</html>
 
 [2021 Delaware-Raritan Canal Trail FKT](https://fastestknowntime.com/fkt/sam-herreid-delaware-raritan-canal-trail-nj-2021-04-05)
 
