@@ -16,7 +16,6 @@ weight = 30
 
 +++
 
-<img src="home/ngeoVol13.png" width="1000" height="1000" />  
 <a href="https://www.nature.com/articles/s41561-020-0615-0" class="" target="_blank"><img src="home/ngeoVol13.png" 
 height="500" 
 width="500"

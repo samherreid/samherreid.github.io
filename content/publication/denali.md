@@ -3,7 +3,7 @@ title = "Why is Denali (6,194 m) so big? Caught inside the tectonic wake of a mi
 date = 2021-11-15T00:00:00
 
 # Authors. Comma separated list, e.g. `["Sam Herreid", "Francesca Pellicciotti"]`.
-authors = ["Jeff Benowitz, Michele Cooke, Patrick Terhune, **Sam Herreid**, Sean Bemis, Kevin Toeneboehn, Trevor Waldien, Paul O'Sullivan"]
+authors = ["Jeff Benowitz, Michele Cooke, Patrick Terhune, **Sam Herreid**, Sean Bemis, Kevin Toeneboehn, Trevor Waldien and Paul O'Sullivan"]
 
 # Publication type.
 # Legend:

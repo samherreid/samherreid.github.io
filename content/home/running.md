@@ -16,10 +16,10 @@ weight = 60
 
 +++
 
-<h2>Past running:</h2>
+<h2>Past:</h2>
   
   
-My running since I bought a Suunto watch in 2019:  
+**My running since I bought a Suunto watch in 2019:**  
 (Yellow = run; blue = openwater ocean swim; green = hike; orange = bike)  
 *to the non-Americans and scientists reading this, please forgive the units :)
   
@@ -32,8 +32,8 @@ My running since I bought a Suunto watch in 2019:
 While I do not race often, below is a link to my International Trail Running Association (ITRA) résumé:
   
 <a href="https://itra.run/RunnerSpace/RaceResults/Herreid.Sam/1714633" class="itra-badge- itra-badge-follow" target="_blank"><img src="home/itralogo.png" 
-height="65" 
-width="70"
+height="105" 
+width="115"
 alt="itra" /></a>
 
   
@@ -58,13 +58,13 @@ The perimeter of Manhattan Island, night running into the new year (52 km), [Dec
 Run across New Jersey, Atlantic Ocean to Pennsylvania (76 km) [September 2020](https://www.strava.com/activities/4032418107)  
 Front Door (Bradley Beach) to Manhattan (90-100 km), [October 2020 Leg 1](https://www.strava.com/activities/4250464257), 
 [Leg 2](https://www.strava.com/activities/4250462955), 
-[Leg 3](https://www.strava.com/activities/4251466916); and again [November 2021](https://www.strava.com/activities/6230518566)
-Delaware-Raritan Canal Trail (111 km) [April 2021, FKT](https://fastestknowntime.com/fkt/sam-herreid-delaware-raritan-canal-trail-nj-2021-04-05)
+[Leg 3](https://www.strava.com/activities/4251466916); and again [November 2021](https://www.strava.com/activities/6230518566)  
+Delaware-Raritan Canal Trail (111 km) [April 2021, FKT](https://fastestknowntime.com/fkt/sam-herreid-delaware-raritan-canal-trail-nj-2021-04-05)  
 Front door (Bradley Beach) to Princeton (73 km) [November 2021](https://www.strava.com/activities/6322892945)  
     
 **Road PR/PBs:**  
 [2:48](https://marathonview.net/marathon-results-of-Sam%20Herreid) marathon, Zürich Marathon, 2019  
-[17:08](https://www.parkrun.org.uk/townmoor/results/athletehistory/?athleteNumber=2811329) 5km, Newcastle upon Tyne Town Moor Parkrun, 2017  
+[17:08](https://www.parkrun.org.uk/townmoor/results/athletehistory/?athleteNumber=2811329) 5 km, Newcastle upon Tyne Town Moor Parkrun, 2017  
 
 <h2>Today's run:</h2>  
   
