@@ -3,7 +3,7 @@ title = "The Randolph Glacier Inventory: a globally complete inventory of glacie
 date = 2014-04-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Sam Herreid", "Francesca Pellicciotti"]`.
-authors = ["Tad Pfeffer, Anthony Arendt, Andrew Bliss, 16 others and the "The Randolph Consortium" including **Sam Herreid**"]
+authors = ["Tad Pfeffer, Anthony Arendt, Andrew Bliss, 16 others and the 'The Randolph Consortium' including **Sam Herreid**"]
 
 # Publication type.
 # Legend:
