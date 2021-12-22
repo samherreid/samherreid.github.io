@@ -43,6 +43,7 @@ This running style is predicated on long, off-trail runs in the Alaska Range tha
 
 Since leaving Alaska, and buying my first GPS watch, I've run a steady volume of self-supported trail and urban ultras with a special love for "My front door to ___" routes with public transportation back home. Here are some of my favorites:  
 
+Tynemouth to Haltwhistle via Hadrian's Wall (87 km), May 2016 (just before getting my first Garmin) 
 Joshua Tree Traverse (57 km, 1200 m d+), [December 2016](https://www.strava.com/activities/1174042869)  
 Front door (Gateshead) to Seaham (45 km), [February 2017](https://www.strava.com/activities/1174003177), [July 2017](https://www.strava.com/activities/1170251129)  
 Front door (Gateshead) to Durham (50 km), [July 2017](https://www.strava.com/activities/1170251093)  
