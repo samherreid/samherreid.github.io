@@ -277,7 +277,7 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
-  name = "Press & Writing"
+  name = "Press"
   url = "#press"
   weight = 3
 
@@ -292,7 +292,7 @@ enableGitInfo = false
   weight = 4
 
 [[menu.main]]
-  name = "Running"
+  name = "Running & Writing"
   url = "#running"
   weight = 5
 
