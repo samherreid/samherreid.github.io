@@ -39,7 +39,7 @@ alt="itra" /></a>
   
 Rather than race, I enjoy running un/self-supported trail and urban ultras on my own. They are usually the result of a momentary random fixation on a challenge or destination and the run usually happens within a few days of the idea nucleation :)  
 
-This running style is predicated on long, off-trail runs in the Alaska Range that filled the summer months of my 20s and came before I ever thought to buy a GPS watch to track them. Most were done alone, usually alongside fiedlwrok, but I participated in a few events and races during this time, including: [AlaskaCross](https://www.newsminer.com/features/outdoors/twelve-adventurous-competitors-tackle-100-mile-alaskacross-course/article_932600aa-1658-11e5-ad1c-83467e260409.html), [White Mountains 100](http://wm100.endurancenorth.org/2014-results) (skiing) x2 finishes, [Iditasport](https://www.iditasport.com/) (225 mile event, skiing, sctatched at mile 90, only career DNF), [Drew's Angel Creek 50](https://angelcreek50.org/results-2015/), [Yukon River Trail Marathon](https://www.yukon-news.com/sports/roots-mchale-top-the-field-in-river-trail-marathon/) in Whitehorse Yukon Territory Canada x3 finishes, and 9 consecutive [Equninox Marathon](https://www.adn.com/sports/article/saari-plays-catchup-collect-fifth-equinox-marathon-title/2015/09/20/) finishes from 2007 to 2015, before moving to The UK for graduate school.  
+This running style is predicated on long, off-trail runs in the Alaska Range that filled the summer months of my 20s and came before I ever thought to buy a GPS watch to track them. Most were done alone, usually alongside fieldwork, but I participated in a few events and races during this time, including: [AlaskaCross](https://www.newsminer.com/features/outdoors/twelve-adventurous-competitors-tackle-100-mile-alaskacross-course/article_932600aa-1658-11e5-ad1c-83467e260409.html) 100 mile wilderness race in 2015, [White Mountains 100](http://wm100.endurancenorth.org/2014-results) (skiing) x2 finishes in 2011 and 2014, [Iditasport](http://trackleaders.com/iditasport15i.php?name=Sam_Herreid) (225 mile event, skiing, sctatched at mile 51, only career DNF), [Drew's Angel Creek 50 Miler](https://angelcreek50.org/results-2015/) in 2015, [Yukon River Trail Marathon](https://www.yukon-news.com/sports/roots-mchale-top-the-field-in-river-trail-marathon/) in Whitehorse Yukon Territory Canada x3 finishes (2010, 2014 and 2015), and 9 consecutive [Equninox Marathon](https://www.adn.com/sports/article/saari-plays-catchup-collect-fifth-equinox-marathon-title/2015/09/20/) finishes from 2007 to 2015, before moving to The UK for graduate school.  
 
 Since leaving Alaska, and buying my first GPS watch, I've run a steady volume of self-supported trail and urban ultras with a special love for "My front door to ..." routes with public transportation back home. Here are some of my favorites:  
 
@@ -56,7 +56,7 @@ Self-supported run across the Alps (France, Switzerland and Italy; 8 days [2 res
 [Day 8](https://www.strava.com/activities/2621901821)  
 The perimeter of Manhattan Island, night running into the new year (52 km), [December 31, 2019](https://www.strava.com/activities/2972114410)  
 Run across New Jersey, Atlantic Ocean to Pennsylvania (76 km) [September 2020](https://www.strava.com/activities/4032418107)  
-Front Door (Bradley Beach) to Manhattan (90-100 km), [October 2020 Leg 1](https://www.strava.com/activities/4250464257), 
+Front door (Bradley Beach) to Manhattan (90-100 km), [October 2020 Leg 1](https://www.strava.com/activities/4250464257), 
 [Leg 2](https://www.strava.com/activities/4250462955), 
 [Leg 3](https://www.strava.com/activities/4251466916); and again [November 2021](https://www.strava.com/activities/6230518566)  
 Delaware-Raritan Canal Trail (111 km) [April 2021, FKT](https://fastestknowntime.com/fkt/sam-herreid-delaware-raritan-canal-trail-nj-2021-04-05)  
@@ -64,7 +64,7 @@ Front door (Bradley Beach) to Princeton (73 km) [November 2021](https://www.stra
     
 **Road PR/PBs:**  
 [2:48](https://marathonview.net/marathon-results-of-Sam%20Herreid) marathon, Zürich Marathon, 2019  
-[17:08](https://www.parkrun.org.uk/townmoor/results/athletehistory/?athleteNumber=2811329) 5 km, Newcastle upon Tyne Town Moor Parkrun, 2017  
+[17:08](https://www.parkrun.org.uk/townmoor/results/athletehistory/?athleteNumber=2811329) 5k, Newcastle upon Tyne Town Moor Parkrun, 2017  
 
 <h2>Today's run:</h2>  
   
