@@ -48,7 +48,7 @@ Joshua Tree Traverse (57 km, 1200 m d+), [December 2016](https://www.strava.com/
 Front door (Gateshead) to Seaham (45 km), [February 2017](https://www.strava.com/activities/1174003177), [July 2017](https://www.strava.com/activities/1170251129)  
 Front door (Gateshead) to Durham (50 km), [July 2017](https://www.strava.com/activities/1170251093)  
 Unsupported Bob Graham Round attempt (70 km, 5000 m d+) [August 2018](https://www.strava.com/activities/1752605644)  
-Gran Canaria running and climbing holiday (9 days, 170 km, 7100 m d+) [December 2018](https://www.strava.com/activities/2013647528)  
+Gran Canaria running and climbing holiday (9 days, sum 170 km, 7100 m d+) [December 2018](https://www.strava.com/activities/2013647528)  
 Self-supported run across the Alps (France, Switzerland and Italy; 8 days [2 rest/storm days], 300 km, 15000 m d+), August 2019 [Day 1](https://www.strava.com/activities/2601994636), 
 [Day 2](https://www.strava.com/activities/2604388699), 
 [Day 3](https://www.strava.com/activities/2607609978), 
