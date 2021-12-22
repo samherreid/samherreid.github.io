@@ -27,7 +27,7 @@ weight = 60
 
 <img src="home/suunto.png" alt="" style="width:100%">
   
-2021 was a difficult year, the gaps in March correspond to working non-stop on the first draft of "What can thermal imagery tell us about glacier melt below rock debris?", and the smaller gaps in May and June were intensive rounds of revisions. In July I sprained my ankle once, and then two more times in August from training in injury denial :( While I was still able to run roads to some degree, my running was limited until around November. Of course through it all, paper writing and an ankle the size of a New Jersey peach, I was still working 30-35 hrs/week pouring bougie lattes :)  
+2021 was a difficult year, the gaps in March correspond to working non-stop on the first draft of "What can thermal imagery tell us about glacier melt below rock debris?", and the smaller gaps in May and June were intensive rounds of revisions. In July I sprained my ankle once, and then two more times in August from injury denial (eye roll). While I was still able to run roads to some degree, my running was limited until around November. Of course through it all, paper writing and an ankle the size of a New Jersey peach, I was still working 30-35 hrs/week pouring bougie lattes :)  
   
 While I do not race often, below is a link to my International Trail Running Association (ITRA) résumé:
   
