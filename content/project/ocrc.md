@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = 2022-04-27T00:00:00
+date = 2021-04-27T00:00:00
 
 # Project title.
 title = "Open Climate Research Collective"
@@ -9,27 +9,28 @@ title = "Open Climate Research Collective"
 summary = "A nonprofit supporting nontraditional scientists"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "ocrc.png"
+image_preview = "ocrc_logo.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Global"]
+tags = ["Thermal imagery in glaciology"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://openclimateresearch.org/"
 
 # Does the project detail page use math formatting?
 math = false
 
 # Optional featured image (relative to `static/img/` folder).
+
 [header]
 
-
-image = "ocrc.png"
-
-
-caption = ""
+image = "thermal_banner-01.jpg"
+caption = "Downward-looking airborne thermal image of Canwell Glacier, Alaska Range."
 
 +++
 
-https://openclimateresearch.org/
+The thumbnail image to this project is of fist to silt-sized clasts on an otherwise bare glacier ice surface. The thumbnail image falls within one or two pixels in the image above which is looking straight down from a helicopter with an image width of several hundred meters. High resolution thermal data holds many answers about debris cover but has received limited attention from glaciologists. Work that is in preparation will detail new methods for acquisition, processing and applications for glaciologists. Coming soon.
+
+
+
