@@ -77,7 +77,6 @@ alt="strava" /></a>
   
 <h2>Upcoming race schedule:</h2>  
   
-[Brooklyn Marathon](https://www.thebrooklynmarathon.com/), April 24th, 2022  
 [Midstate Massive 100 mile ultra trail](https://www.newenglandraceevents.com/midstate-massive-ultra-trail), October 8th, 2022 
 
 <h2>Writing</h2>
