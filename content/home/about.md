@@ -1,41 +1,23 @@
-+++
-# About/Biography widget.
-widget = "about"
-active = true
-date = 2016-04-20T00:00:00
+---
+# An instance of the About widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: about
 
-# Order that this section will appear in.
-weight = 5
+# Activate this widget? true/false
+active: true
 
-# List your academic interests.
-[interests]
-  interests = [
-    "Rock debris on glaciers",
-    "Advancing regional to global scale glacier modeling",
-    "Surge-type/unstable glacier flow"
-  ]
+# This file represents a page section.
+headless: true
 
-# List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Glaciology"
-  institution = "Northumbria University"
-  year = 2019
+# Order that this section appears on the page.
+weight: 20
 
-#[[education.courses]]
-#  course = "MEng in Artificial Intelligence"
-#  institution = "Massachusetts Institute of Technology"
-#  year = 2009
+title: Biography
 
-[[education.courses]]
-  course = "BSc in Geology"
-  institution = "University of Alaska Fairbanks"
-  year = 2014
-
-+++
-
-I am a self-funded glaciologist working to improve sea level rise estimates, specifically by considering the melt reducing effect of rock debris on glaciers. Rock debris has been a long outstanding omission from global glacier models and my work is focused on resolving this knowledge gap. Beginning in 2009, I established a field research program measuring rock debris on glaciers in the Alaska Range which was, and remains, largely uninvestigated by previous scientists. While I continue to work on understanding the nuances of a [single glacier](https://samherreid.org/project/canwellglacier/), I am also working on this problem at a global scale, considering [all glaciers on Earth](https://samherreid.org/publication/global_featured/). It is at this scale that improved calculations of sea level rise will facilitate better warning, and mitigation of, climate driven crises. To aid other researchers around the world as this subject gains attention, I am developing [Debris Cover Tools](https://github.com/samherreid): a suite of open-source tools aimed at automation, providing an accessible and easy to implement approach to account for rock debris on glaciers. My science is currently funded directly through my interactions with the public while working at a cafe, which I find to be an interesting way to have a pulse on how climate related science is perceived by the public. I work independently and am best reached if you pass by [Cameo Love Market](https://cameolovemarket.com/) in Asbury Park, New Jersey for a cappuccino :)
-
-
-
+# Choose the user profile to display
+# This should be the username (folder name) of a profile in your `content/authors/` folder.
+# See https://wowchemy.com/docs/get-started/#introduce-yourself
+author: admin
+---
 
 
