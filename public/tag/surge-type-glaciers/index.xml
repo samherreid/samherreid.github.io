@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Surge-type glaciers | Sam Herreid</title>
-    <link>https://samherreid.io/tag/surge-type-glaciers/</link>
-      <atom:link href="https://samherreid.io/tag/surge-type-glaciers/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://samherreid.github.io/tag/surge-type-glaciers/</link>
+      <atom:link href="https://samherreid.github.io/tag/surge-type-glaciers/index.xml" rel="self" type="application/rss+xml" />
     <description>Surge-type glaciers</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://samherreid.io/media/icon_hu4111fabdab116352ce8a62ad911042e7_28769_512x512_fill_lanczos_center_3.png</url>
+      <url>https://samherreid.github.io/media/icon_hu4111fabdab116352ce8a62ad911042e7_28769_512x512_fill_lanczos_center_3.png</url>
       <title>Surge-type glaciers</title>
-      <link>https://samherreid.io/tag/surge-type-glaciers/</link>
+      <link>https://samherreid.github.io/tag/surge-type-glaciers/</link>
     </image>
     
     <item>
       <title>Automated detection of unstable glacier flow and a spectrum of speedup behavior in the Alaska Range</title>
-      <link>https://samherreid.io/publication/surge/</link>
+      <link>https://samherreid.github.io/publication/surge/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.io/publication/surge/</guid>
+      <guid>https://samherreid.github.io/publication/surge/</guid>
       <description>&lt;img src=&#34;speedup_fig.jpg&#34; width=&#34;2000&#34; height=&#34;2000&#34; /&gt;
 &lt;h2 id=&#34;press-coverage-for-work-on-surging-glaciers&#34;&gt;&lt;strong&gt;Press coverage for work on surging glaciers&lt;/strong&gt;&lt;/h2&gt;
 &lt;br/&gt;

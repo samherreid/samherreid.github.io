@@ -2,21 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Global | Sam Herreid</title>
-    <link>https://samherreid.io/tag/global/</link>
-      <atom:link href="https://samherreid.io/tag/global/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://samherreid.github.io/tag/global/</link>
+      <atom:link href="https://samherreid.github.io/tag/global/index.xml" rel="self" type="application/rss+xml" />
     <description>Global</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://samherreid.io/media/icon_hu4111fabdab116352ce8a62ad911042e7_28769_512x512_fill_lanczos_center_3.png</url>
+      <url>https://samherreid.github.io/media/icon_hu4111fabdab116352ce8a62ad911042e7_28769_512x512_fill_lanczos_center_3.png</url>
       <title>Global</title>
-      <link>https://samherreid.io/tag/global/</link>
+      <link>https://samherreid.github.io/tag/global/</link>
     </image>
     
     <item>
+      <title>Global scale analyses and products</title>
+      <link>https://samherreid.github.io/project/global/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://samherreid.github.io/project/global/</guid>
+      <description>&lt;img src=&#34;global_pan.gif&#34; width=&#34;2000&#34; height=&#34;2000&#34; /&gt;
+&lt;p&gt;&amp;ldquo;1° x 1° cells over glacierized area showing percent debris-covered area.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;In order to derive a global debris cover map at an operative quality, the Randolph Glacier Inventory Version 6.0 needed to be corrected and updated. Because I was the sole glaciologist to manually correct this dataset, there is now a heightened level of consistency that has never before been present in a global glacier dataset.&lt;/p&gt;
+&lt;p&gt;With a high confidence map of glacier area and debris cover, an equilibrium line estimate can be made for glaciers with sufficient debris cover.&lt;/p&gt;
+&lt;p&gt;After the derivation of each galcier&amp;rsquo;s equilibrium line, the accumulation area ratio (AAR), a metrics of glacier health, can be calculated.&lt;/p&gt;
+&lt;p&gt;From here I was able to diverge from the common, and not-so-informative, metric &amp;quot; percent debris-covered&amp;quot;  to define four new metrics, that, together, describe the state and geometric configuration of each glacier&amp;rsquo;s debris cover. These new metrics are defined below with examples from around the world.&lt;/p&gt;
+&lt;img src=&#34;fig3-01.jpg&#34; width=&#34;2000&#34; height=&#34;2000&#34; /&gt;
+&lt;p&gt;The updated RGI, debris maps and per-glacier metric values are all available for all glacierized regions on Earth &lt;a href=&#34;https://doi.org/10.5281/zenodo.3866466&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;script defer src=&#34;https://cdn.commento.io/js/commento.js&#34;&gt;&lt;/script&gt;
+&lt;div id=&#34;commento&#34;&gt;&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The state of rock debris covering Earth’s glaciers</title>
-      <link>https://samherreid.io/publication/global/</link>
+      <link>https://samherreid.github.io/publication/global/</link>
       <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.io/publication/global/</guid>
+      <guid>https://samherreid.github.io/publication/global/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     A summary of this paper written in accessable language for the Nature Sustainability Community &amp;ldquo;Behind the Paper&amp;rdquo; series is available &lt;a href=&#34;https://sustainabilitycommunity.springernature.com/posts/rocks-catching-a-ride-out-of-the-mountains-on-a-glacier-might-be-keeping-sea-level-rise-a-little-lower-than-expected&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.
@@ -58,28 +76,10 @@ alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
     
     <item>
       <title>The Randolph Glacier Inventory, a globally complete inventory of glaciers</title>
-      <link>https://samherreid.io/publication/rgi/</link>
+      <link>https://samherreid.github.io/publication/rgi/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.io/publication/rgi/</guid>
+      <guid>https://samherreid.github.io/publication/rgi/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Global scale analyses and products</title>
-      <link>https://samherreid.io/project/global/</link>
-      <pubDate>Sun, 27 Apr 2008 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.io/project/global/</guid>
-      <description>&lt;img src=&#34;global_pan.gif&#34; width=&#34;2000&#34; height=&#34;2000&#34; /&gt;
-&lt;p&gt;&amp;ldquo;1° x 1° cells over glacierized area showing percent debris-covered area.&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;In order to derive a global debris cover map at an operative quality, the Randolph Glacier Inventory Version 6.0 needed to be corrected and updated. Because I was the sole glaciologist to manually correct this dataset, there is now a heightened level of consistency that has never before been present in a global glacier dataset.&lt;/p&gt;
-&lt;p&gt;With a high confidence map of glacier area and debris cover, an equilibrium line estimate can be made for glaciers with sufficient debris cover.&lt;/p&gt;
-&lt;p&gt;After the derivation of each galcier&amp;rsquo;s equilibrium line, the accumulation area ratio (AAR), a metrics of glacier health, can be calculated.&lt;/p&gt;
-&lt;p&gt;From here I was able to diverge from the common, and not-so-informative, metric &amp;quot; percent debris-covered&amp;quot;  to define four new metrics, that, together, describe the state and geometric configuration of each glacier&amp;rsquo;s debris cover. These new metrics are defined below with examples from around the world.&lt;/p&gt;
-&lt;img src=&#34;fig3-01.jpg&#34; width=&#34;2000&#34; height=&#34;2000&#34; /&gt;
-&lt;p&gt;The updated RGI, debris maps and per-glacier metric values are all available for all glacierized regions on Earth &lt;a href=&#34;https://doi.org/10.5281/zenodo.3866466&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;script defer src=&#34;https://cdn.commento.io/js/commento.js&#34;&gt;&lt;/script&gt;
-&lt;div id=&#34;commento&#34;&gt;&lt;/div&gt;
-</description>
     </item>
     
   </channel>

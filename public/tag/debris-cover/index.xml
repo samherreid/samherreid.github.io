@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Debris cover | Sam Herreid</title>
-    <link>https://samherreid.io/tag/debris-cover/</link>
-      <atom:link href="https://samherreid.io/tag/debris-cover/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://samherreid.github.io/tag/debris-cover/</link>
+      <atom:link href="https://samherreid.github.io/tag/debris-cover/index.xml" rel="self" type="application/rss+xml" />
     <description>Debris cover</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Apr 2009 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://samherreid.io/media/icon_hu4111fabdab116352ce8a62ad911042e7_28769_512x512_fill_lanczos_center_3.png</url>
+      <url>https://samherreid.github.io/media/icon_hu4111fabdab116352ce8a62ad911042e7_28769_512x512_fill_lanczos_center_3.png</url>
       <title>Debris cover</title>
-      <link>https://samherreid.io/tag/debris-cover/</link>
+      <link>https://samherreid.github.io/tag/debris-cover/</link>
     </image>
     
     <item>
       <title>Debris Cover Evolution</title>
-      <link>https://samherreid.io/project/debrisevolution/</link>
-      <pubDate>Mon, 27 Apr 2009 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.io/project/debrisevolution/</guid>
+      <link>https://samherreid.github.io/project/debrisevolution/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://samherreid.github.io/project/debrisevolution/</guid>
       <description>&lt;p&gt;This is my most active area of research. A paper and code will be populating this space very soon&amp;hellip;&lt;/p&gt;
 &lt;script defer src=&#34;https://cdn.commento.io/js/commento.js&#34;&gt;&lt;/script&gt;
 &lt;div id=&#34;commento&#34;&gt;&lt;/div&gt;
@@ -25,9 +25,9 @@
     
     <item>
       <title>Global scale analyses and products</title>
-      <link>https://samherreid.io/project/global/</link>
-      <pubDate>Sun, 27 Apr 2008 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.io/project/global/</guid>
+      <link>https://samherreid.github.io/project/global/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://samherreid.github.io/project/global/</guid>
       <description>&lt;img src=&#34;global_pan.gif&#34; width=&#34;2000&#34; height=&#34;2000&#34; /&gt;
 &lt;p&gt;&amp;ldquo;1° x 1° cells over glacierized area showing percent debris-covered area.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;In order to derive a global debris cover map at an operative quality, the Randolph Glacier Inventory Version 6.0 needed to be corrected and updated. Because I was the sole glaciologist to manually correct this dataset, there is now a heightened level of consistency that has never before been present in a global glacier dataset.&lt;/p&gt;
@@ -43,9 +43,9 @@
     
     <item>
       <title>Landslides on glaciers</title>
-      <link>https://samherreid.io/project/landslides/</link>
+      <link>https://samherreid.github.io/project/landslides/</link>
       <pubDate>Fri, 27 Apr 2001 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.io/project/landslides/</guid>
+      <guid>https://samherreid.github.io/project/landslides/</guid>
       <description>&lt;p&gt;Landslides, more technically rock avalanches, are striking features when deposited onto glaciers. Since 2010 I have been both scientifically and personally interested in visiting as many as I can while also keeping an eye on satellite imagery for the next big one&amp;hellip; They are all quite unique, as you will see from some of my favorites shown below.&lt;/p&gt;
 &lt;img src=&#34;Slide1.JPG&#34; width=&#34;800&#34; height=&#34;800&#34; /&gt;
 &lt;p&gt;The Delta Mountains, a sub-range of the Alaska Range. Landslides are shown in red and letters correspond to the locations of the images below.&lt;/p&gt;
@@ -72,9 +72,9 @@
     
     <item>
       <title>Debris Cover Tools</title>
-      <link>https://samherreid.io/project/dct/</link>
+      <link>https://samherreid.github.io/project/dct/</link>
       <pubDate>Thu, 27 Apr 2000 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.io/project/dct/</guid>
+      <guid>https://samherreid.github.io/project/dct/</guid>
       <description>&lt;p&gt;Development of &lt;a href=&#34;https://github.com/samherreid/DebrisCoverTools/blob/master/DebrisCoverTools.py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Debris Cover Tools (DCT)&lt;/a&gt; started in May 2018. The intent was an open-source suite of Python based tools that any climate modeler could easily run to add the effects of debris cover to their work in a modular form. At the time, and still today, many global glacier models neglect debris cover entirely.&lt;/p&gt;
 &lt;p&gt;While it&amp;rsquo;s not a top development priority for me, all of the small scripts I write will eventually be packaged into a cohesive DCT Jupyter notebook for either community use or just to sit and accumulate dust on github. Several of the tools I have developed have been published in peer-reviewed articles and they are linked below.&lt;/p&gt;
 &lt;p&gt;While it&amp;rsquo;s annoying and not open-source, I use the package arcpy (I pay $100USD/year to have a licence). Being something of an indusrty standard makes it slightly okay, I think, but I would one day like for these tool to run exclusivly with open-source Python packages.&lt;/p&gt;

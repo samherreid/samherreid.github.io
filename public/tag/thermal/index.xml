@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thermal | Sam Herreid</title>
-    <link>https://samherreid.io/tag/thermal/</link>
-      <atom:link href="https://samherreid.io/tag/thermal/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://samherreid.github.io/tag/thermal/</link>
+      <atom:link href="https://samherreid.github.io/tag/thermal/index.xml" rel="self" type="application/rss+xml" />
     <description>Thermal</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://samherreid.io/media/icon_hu4111fabdab116352ce8a62ad911042e7_28769_512x512_fill_lanczos_center_3.png</url>
+      <url>https://samherreid.github.io/media/icon_hu4111fabdab116352ce8a62ad911042e7_28769_512x512_fill_lanczos_center_3.png</url>
       <title>Thermal</title>
-      <link>https://samherreid.io/tag/thermal/</link>
+      <link>https://samherreid.github.io/tag/thermal/</link>
     </image>
     
     <item>
       <title>What can thermal imagery tell us about glacier melt below rock debris?</title>
-      <link>https://samherreid.io/publication/thermal/</link>
+      <link>https://samherreid.github.io/publication/thermal/</link>
       <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.io/publication/thermal/</guid>
+      <guid>https://samherreid.github.io/publication/thermal/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     A &lt;a href=&#34;https://www.instagram.com/p/CW9SAC-llbg/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;5 post series&lt;/a&gt; on my Instagram gives a summary of this paper in accessible language and tells the story about what it took to personally finance it.
@@ -36,9 +36,9 @@ Oblique image of Canwell Glacier from the same helicopter flight used to capture
     
     <item>
       <title>Thermal imagery in glaciology</title>
-      <link>https://samherreid.io/project/thermal/</link>
-      <pubDate>Fri, 27 Apr 2007 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.io/project/thermal/</guid>
+      <link>https://samherreid.github.io/project/thermal/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://samherreid.github.io/project/thermal/</guid>
       <description>&lt;p&gt;The thermal image below is of fist to silt-sized clasts on an otherwise bare glacier ice surface. This entire image falls within one or two pixels in the above thermal image which is looking straight down from a helicopter with an image width of several hundred meters. High resolution thermal data holds many answers about debris cover but has received limited attention from glaciologists. The 2021 paper referenced below details some uses of thermal data in glaciology.&lt;/p&gt;
 &lt;img src=&#34;small.jpg&#34; width=&#34;800&#34; height=&#34;800&#34; /&gt;
 &lt;script defer src=&#34;https://cdn.commento.io/js/commento.js&#34;&gt;&lt;/script&gt;

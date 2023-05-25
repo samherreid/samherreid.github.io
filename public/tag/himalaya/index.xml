@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Himalaya | Sam Herreid</title>
-    <link>https://samherreid.io/tag/himalaya/</link>
-      <atom:link href="https://samherreid.io/tag/himalaya/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://samherreid.github.io/tag/himalaya/</link>
+      <atom:link href="https://samherreid.github.io/tag/himalaya/index.xml" rel="self" type="application/rss+xml" />
     <description>Himalaya</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://samherreid.io/media/icon_hu4111fabdab116352ce8a62ad911042e7_28769_512x512_fill_lanczos_center_3.png</url>
+      <url>https://samherreid.github.io/media/icon_hu4111fabdab116352ce8a62ad911042e7_28769_512x512_fill_lanczos_center_3.png</url>
       <title>Himalaya</title>
-      <link>https://samherreid.io/tag/himalaya/</link>
+      <link>https://samherreid.github.io/tag/himalaya/</link>
     </image>
     
     <item>
       <title>Mass-balance changes of the debris-covered glaciers in the Langtang Himal, Nepal, from 1974 to 1999</title>
-      <link>https://samherreid.io/publication/langtang/</link>
+      <link>https://samherreid.github.io/publication/langtang/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.io/publication/langtang/</guid>
+      <guid>https://samherreid.github.io/publication/langtang/</guid>
       <description></description>
     </item>
     

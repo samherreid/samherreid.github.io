@@ -2,21 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software | Sam Herreid</title>
-    <link>https://samherreid.io/tag/software/</link>
-      <atom:link href="https://samherreid.io/tag/software/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://samherreid.github.io/tag/software/</link>
+      <atom:link href="https://samherreid.github.io/tag/software/index.xml" rel="self" type="application/rss+xml" />
     <description>Software</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Apr 2010 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://samherreid.io/media/icon_hu4111fabdab116352ce8a62ad911042e7_28769_512x512_fill_lanczos_center_3.png</url>
+      <url>https://samherreid.github.io/media/icon_hu4111fabdab116352ce8a62ad911042e7_28769_512x512_fill_lanczos_center_3.png</url>
       <title>Software</title>
-      <link>https://samherreid.io/tag/software/</link>
+      <link>https://samherreid.github.io/tag/software/</link>
     </image>
     
     <item>
+      <title>Debris Cover Evolution</title>
+      <link>https://samherreid.github.io/project/debrisevolution/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://samherreid.github.io/project/debrisevolution/</guid>
+      <description>&lt;p&gt;This is my most active area of research. A paper and code will be populating this space very soon&amp;hellip;&lt;/p&gt;
+&lt;script defer src=&#34;https://cdn.commento.io/js/commento.js&#34;&gt;&lt;/script&gt;
+&lt;div id=&#34;commento&#34;&gt;&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>See-G(IS code)</title>
-      <link>https://samherreid.io/project/seeg/</link>
+      <link>https://samherreid.github.io/project/seeg/</link>
       <pubDate>Tue, 27 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.io/project/seeg/</guid>
+      <guid>https://samherreid.github.io/project/seeg/</guid>
       <description>&lt;img src=&#34;johnsonMethod.gif&#34; width=&#34;2000&#34; height=&#34;2000&#34; Caption = &#34;hello&#34;/&gt;
 &lt;p&gt;GIS-based research is a perfect medium for visual learners, however, as your analysis becomes more sophisticated you might end up using a strictly programming environment. In the process of writing a method only with code, a visual learner might miss seeing what is actually happening. See-G(IS code) is a tool to see your method in action and possibly identify redundancies. After defining directories&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;baseMap&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;sa&#34;&gt;r&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;&amp;#34;&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;# .shp (optional)&lt;/span&gt;
@@ -43,21 +54,10 @@
     </item>
     
     <item>
-      <title>Debris Cover Evolution</title>
-      <link>https://samherreid.io/project/debrisevolution/</link>
-      <pubDate>Mon, 27 Apr 2009 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.io/project/debrisevolution/</guid>
-      <description>&lt;p&gt;This is my most active area of research. A paper and code will be populating this space very soon&amp;hellip;&lt;/p&gt;
-&lt;script defer src=&#34;https://cdn.commento.io/js/commento.js&#34;&gt;&lt;/script&gt;
-&lt;div id=&#34;commento&#34;&gt;&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Debris Cover Tools</title>
-      <link>https://samherreid.io/project/dct/</link>
+      <link>https://samherreid.github.io/project/dct/</link>
       <pubDate>Thu, 27 Apr 2000 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.io/project/dct/</guid>
+      <guid>https://samherreid.github.io/project/dct/</guid>
       <description>&lt;p&gt;Development of &lt;a href=&#34;https://github.com/samherreid/DebrisCoverTools/blob/master/DebrisCoverTools.py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Debris Cover Tools (DCT)&lt;/a&gt; started in May 2018. The intent was an open-source suite of Python based tools that any climate modeler could easily run to add the effects of debris cover to their work in a modular form. At the time, and still today, many global glacier models neglect debris cover entirely.&lt;/p&gt;
 &lt;p&gt;While it&amp;rsquo;s not a top development priority for me, all of the small scripts I write will eventually be packaged into a cohesive DCT Jupyter notebook for either community use or just to sit and accumulate dust on github. Several of the tools I have developed have been published in peer-reviewed articles and they are linked below.&lt;/p&gt;
 &lt;p&gt;While it&amp;rsquo;s annoying and not open-source, I use the package arcpy (I pay $100USD/year to have a licence). Being something of an indusrty standard makes it slightly okay, I think, but I would one day like for these tool to run exclusivly with open-source Python packages.&lt;/p&gt;
