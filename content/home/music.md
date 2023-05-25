@@ -23,7 +23,7 @@ EP tracklist:
 
 - Graubünden  
 - Chamonix  
-- Ирина  
+- Irina
 - Green Mountain  
 - Spring Lake nights  
 
