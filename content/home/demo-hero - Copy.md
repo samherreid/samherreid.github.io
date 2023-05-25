@@ -8,14 +8,12 @@ hero_media: NONE
 
 design:
   background:
-    gradient_end: '#F57F17'
-    gradient_start: '#F57F17'
+    gradient_end: '#1976d2'
+    gradient_start: '#004ba0'
     text_color_light: true
 # advanced:
 #   css_class: fullscreen
 ---
 <div class="mb-3"></div>
 
-**[Read Sam's first ever running fiction](https://freetrail.com/a-letter-to-the-past/)** 🎉
-
-
+**[New science fiction: trail running in Antarctica 500 years from now](https://freetrail.com/a-letter-to-the-past/)**

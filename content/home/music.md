@@ -11,7 +11,7 @@ title: Music
 #   css_class: fullscreen
 ---
 
-
+{{< youtube p2xdNaGcYW0>}}
 
 {{< youtube eIpoF_BdDMk >}}
 
@@ -19,8 +19,12 @@ title: Music
 
 <br/>
 
-In 2021 I bought a baby grand piano. I am currently writing and recording an EP of songs capturing the lifestyle and culture around ultra trail running. I'm not exactly sure what the end product will be, since I write simultaneously for tracked recording, but also single take live performances. I'm not sure if a Spotify album would be strictly one, or the other, or possibly a mix or two versions of each track 😂
+EP tracklist:
 
-I like releasing music as soon as I make it, which is what is posted here. Two tracks from the forthcoming album. Are they demos? Are they final cuts with fun raw blemishes? No one really knows. All I can say is I have a piano in my living room and when I hear a song in my head, it isn't too long before it's a file on my laptop. And then will very likely appear on this website. 
+- Graubünden  
+- Chamonix  
+- Ирина  
+- Green Mountain  
+- Spring Lake nights  
 
-The latest track, *Chamonix*, was recorded in a single take playing piano, drums and singing at the same time. The back story and lyrics are in the YouTube notes.
+Demos are scattered around YouTube, SoundCloud, IG Reels and TikTok. 

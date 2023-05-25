@@ -1,7 +1,7 @@
 ---
 widget: hero
 headless: true
-active: true
+active: false
 weight: 10
 title: Sam's new website !
 hero_media: hero-sam.png
@@ -17,6 +17,9 @@ design:
 <div class="mb-3"></div>
 
 **Here, you will find content on glacier research, software development, the new nonprofit Open Climate Research Collective, a new EP featuring songs about ultra trail running, comedy running articles and maybe even some latte art**
+
+orange color from other Hero     gradient_end: '#F57F17'
+    gradient_start: '#F57F17'
 
 
 From Alaska to Europe and now the Jersey Shore, you can catch up on all of Sam's current interests and projects below. 

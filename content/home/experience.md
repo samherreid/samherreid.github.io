@@ -22,6 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Postdoctoral researcher
+    company: OSU Byrd Polar and Climate Research Center 
+    company_url: 'https://byrd.osu.edu/'
+    company_logo: osu
+    location: Ohio, USA (remote)
+    date_start: '2023-05-08'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        * Software engineer
+        * Machine learning for geophysical applications
   - title: Co-founder, Executive Director
     company: Open Climate Research Collective
     company_url: 'https://openclimateresearch.org/'
