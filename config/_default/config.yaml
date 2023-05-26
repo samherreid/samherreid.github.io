@@ -5,7 +5,7 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Sam Herreid # Website name
-baseURL: 'https://samherreid.io/'
+baseURL: 'https://samherreid.github.io/'
 
 ############################
 ## LANGUAGE
