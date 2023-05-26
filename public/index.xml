@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sam Herreid</title>
-    <link>https://samherreid.github.io/</link>
-      <atom:link href="https://samherreid.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://samherreid.io/</link>
+      <atom:link href="https://samherreid.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Sam Herreid</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://samherreid.github.io/media/icon_hu4111fabdab116352ce8a62ad911042e7_28769_512x512_fill_lanczos_center_3.png</url>
+      <url>https://samherreid.io/media/icon_hu4111fabdab116352ce8a62ad911042e7_28769_512x512_fill_lanczos_center_3.png</url>
       <title>Sam Herreid</title>
-      <link>https://samherreid.github.io/</link>
+      <link>https://samherreid.io/</link>
     </image>
     
     <item>
       <title>Debris Cover Evolution</title>
-      <link>https://samherreid.github.io/project/debrisevolution/</link>
+      <link>https://samherreid.io/project/debrisevolution/</link>
       <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.github.io/project/debrisevolution/</guid>
+      <guid>https://samherreid.io/project/debrisevolution/</guid>
       <description>&lt;p&gt;This is my most active area of research. A paper and code will be populating this space very soon&amp;hellip;&lt;/p&gt;
 &lt;script defer src=&#34;https://cdn.commento.io/js/commento.js&#34;&gt;&lt;/script&gt;
 &lt;div id=&#34;commento&#34;&gt;&lt;/div&gt;
@@ -25,9 +25,9 @@
     
     <item>
       <title>A Letter to The Past</title>
-      <link>https://samherreid.github.io/post/freetrail_wau/</link>
+      <link>https://samherreid.io/post/freetrail_wau/</link>
       <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.github.io/post/freetrail_wau/</guid>
+      <guid>https://samherreid.io/post/freetrail_wau/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Excerpt from the full article published on  &lt;a href=&#34;https://freetrail.com/a-letter-to-the-past/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Freetrail.com&lt;/a&gt;.
@@ -47,9 +47,9 @@
     
     <item>
       <title>Strava Hang Time Into the New Year</title>
-      <link>https://samherreid.github.io/post/freetrail_strava/</link>
+      <link>https://samherreid.io/post/freetrail_strava/</link>
       <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.github.io/post/freetrail_strava/</guid>
+      <guid>https://samherreid.io/post/freetrail_strava/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Excerpt from the full article published on  &lt;a href=&#34;https://freetrail.com/strava-hang-time-into-the-new-year/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Freetrail.com&lt;/a&gt;.
@@ -67,9 +67,9 @@
     
     <item>
       <title>Combining Bedrock Geology and a New Glacier Flowline Tool to Model Debris Cover Evolution (C12B-0572)</title>
-      <link>https://samherreid.github.io/talk/combining-bedrock-geology-and-a-new-glacier-flowline-tool-to-model-debris-cover-evolution-c12b-0572/</link>
+      <link>https://samherreid.io/talk/combining-bedrock-geology-and-a-new-glacier-flowline-tool-to-model-debris-cover-evolution-c12b-0572/</link>
       <pubDate>Mon, 12 Dec 2022 10:00:00 +0000</pubDate>
-      <guid>https://samherreid.github.io/talk/combining-bedrock-geology-and-a-new-glacier-flowline-tool-to-model-debris-cover-evolution-c12b-0572/</guid>
+      <guid>https://samherreid.io/talk/combining-bedrock-geology-and-a-new-glacier-flowline-tool-to-model-debris-cover-evolution-c12b-0572/</guid>
       <description>&lt;script defer src=&#34;https://cdn.commento.io/js/commento.js&#34;&gt;&lt;/script&gt;
 &lt;div id=&#34;commento&#34;&gt;&lt;/div&gt;
 </description>
@@ -77,9 +77,9 @@
     
     <item>
       <title>First blog post of all time!</title>
-      <link>https://samherreid.github.io/post/first-post/</link>
+      <link>https://samherreid.io/post/first-post/</link>
       <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.github.io/post/first-post/</guid>
+      <guid>https://samherreid.io/post/first-post/</guid>
       <description>&lt;p&gt;Welcome to samherreid.io! A new hub for my content spanning a handful of, not always complementary, fixations. My first personal website, samherreid.org, went live in June 2018 as a primarily academic website. It had some footnotes to my other interests, but was built specifically for the eyes of potential employers. I never said ‘‘fuck’’ on samherreid.org. But things are changing&amp;hellip;&lt;/p&gt;
 &lt;p&gt;Firstly, the domain extension. No one has time to comment on things, those that do occupy a beautiful few percentages of our population. When samherreid.org launched there wasn’t public commenting, but a few people privately messaged me, laughing at my ambitious organization designation. It made some sense to me because it was a well-known extension and I’m not a commercial entity. But now that I am a co-founder of an actual nonprofit organization, I decided to switch my personal website to the trendy .io extension.&lt;/p&gt;
 &lt;p&gt;While this website still has a comprehensive presentation of my science, I decided to ditch the selective resume format and host all of my creative fields in on one central &amp;ndash; and not social media &amp;ndash; location. Am I still applying for postdocs with a link to this website on my CV? Yes 😅, but I guess I’ve decided to be my whole self here, which means expect inline emojis and jokes about eating Tide Pods.&lt;/p&gt;
@@ -91,9 +91,9 @@
     
     <item>
       <title>The “Front Door to ____” Urban Ultra Series</title>
-      <link>https://samherreid.github.io/post/freetrail/</link>
+      <link>https://samherreid.io/post/freetrail/</link>
       <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.github.io/post/freetrail/</guid>
+      <guid>https://samherreid.io/post/freetrail/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Excerpt from the full article published on  &lt;a href=&#34;https://freetrail.com/the-front-door-to-____-urban-ultra-series/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Freetrail.com&lt;/a&gt;.
@@ -108,9 +108,9 @@
     
     <item>
       <title>Global scale analyses and products</title>
-      <link>https://samherreid.github.io/project/global/</link>
+      <link>https://samherreid.io/project/global/</link>
       <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.github.io/project/global/</guid>
+      <guid>https://samherreid.io/project/global/</guid>
       <description>&lt;img src=&#34;global_pan.gif&#34; width=&#34;2000&#34; height=&#34;2000&#34; /&gt;
 &lt;p&gt;&amp;ldquo;1° x 1° cells over glacierized area showing percent debris-covered area.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;In order to derive a global debris cover map at an operative quality, the Randolph Glacier Inventory Version 6.0 needed to be corrected and updated. Because I was the sole glaciologist to manually correct this dataset, there is now a heightened level of consistency that has never before been present in a global glacier dataset.&lt;/p&gt;
@@ -126,17 +126,17 @@
     
     <item>
       <title>Why is Denali (6,194 m) so big? Caught inside the tectonic wake of a migrating restraining bend</title>
-      <link>https://samherreid.github.io/publication/denali/</link>
+      <link>https://samherreid.io/publication/denali/</link>
       <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.github.io/publication/denali/</guid>
+      <guid>https://samherreid.io/publication/denali/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Why Tamales are Good for the Planet, the Trail, and You</title>
-      <link>https://samherreid.github.io/post/irunfar/</link>
+      <link>https://samherreid.io/post/irunfar/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.github.io/post/irunfar/</guid>
+      <guid>https://samherreid.io/post/irunfar/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Excerpt from the full article published on  &lt;a href=&#34;https://www.irunfar.com/why-tamales-are-good-for-the-planet-the-trail-and-you&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;irunfar.com&lt;/a&gt;.
@@ -155,9 +155,9 @@
     
     <item>
       <title>What can thermal imagery tell us about glacier melt below rock debris?</title>
-      <link>https://samherreid.github.io/publication/thermal/</link>
+      <link>https://samherreid.io/publication/thermal/</link>
       <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.github.io/publication/thermal/</guid>
+      <guid>https://samherreid.io/publication/thermal/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     A &lt;a href=&#34;https://www.instagram.com/p/CW9SAC-llbg/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;5 post series&lt;/a&gt; on my Instagram gives a summary of this paper in accessible language and tells the story about what it took to personally finance it.
@@ -177,17 +177,17 @@ Oblique image of Canwell Glacier from the same helicopter flight used to capture
     
     <item>
       <title>Losing the Arctic (Book Chapter)</title>
-      <link>https://samherreid.github.io/publication/arcticocean/</link>
+      <link>https://samherreid.io/publication/arcticocean/</link>
       <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.github.io/publication/arcticocean/</guid>
+      <guid>https://samherreid.io/publication/arcticocean/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thermal imagery in glaciology</title>
-      <link>https://samherreid.github.io/project/thermal/</link>
+      <link>https://samherreid.io/project/thermal/</link>
       <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.github.io/project/thermal/</guid>
+      <guid>https://samherreid.io/project/thermal/</guid>
       <description>&lt;p&gt;The thermal image below is of fist to silt-sized clasts on an otherwise bare glacier ice surface. This entire image falls within one or two pixels in the above thermal image which is looking straight down from a helicopter with an image width of several hundred meters. High resolution thermal data holds many answers about debris cover but has received limited attention from glaciologists. The 2021 paper referenced below details some uses of thermal data in glaciology.&lt;/p&gt;
 &lt;img src=&#34;small.jpg&#34; width=&#34;800&#34; height=&#34;800&#34; /&gt;
 &lt;script defer src=&#34;https://cdn.commento.io/js/commento.js&#34;&gt;&lt;/script&gt;
@@ -197,9 +197,9 @@ Oblique image of Canwell Glacier from the same helicopter flight used to capture
     
     <item>
       <title>A Glacier Scientist Goes Running</title>
-      <link>https://samherreid.github.io/post/dakota/</link>
+      <link>https://samherreid.io/post/dakota/</link>
       <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.github.io/post/dakota/</guid>
+      <guid>https://samherreid.io/post/dakota/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Excerpt from the full article by &lt;a href=&#34;https://www.instagram.com/thatdakotajones/?hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dakota Jones&lt;/a&gt; published on  &lt;a href=&#34;https://thatdakotajones.medium.com/a-glacier-scientist-goes-running-e9adc3ede38c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Medium&lt;/a&gt;.
@@ -214,9 +214,9 @@ Oblique image of Canwell Glacier from the same helicopter flight used to capture
     
     <item>
       <title>A Glaciologist in Chamonix</title>
-      <link>https://samherreid.github.io/post/trailrunner/</link>
+      <link>https://samherreid.io/post/trailrunner/</link>
       <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.github.io/post/trailrunner/</guid>
+      <guid>https://samherreid.io/post/trailrunner/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Published in &lt;a href=&#34;https://www.trailrunnermag.com/people/environment-people/a-glaciologist-in-chamonix/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trailrunner Magazine&lt;/a&gt;, online and in print.
@@ -232,17 +232,17 @@ Oblique image of Canwell Glacier from the same helicopter flight used to capture
     
     <item>
       <title>Mapping ice cliffs on debris-covered glaciers using multispectral satellite images</title>
-      <link>https://samherreid.github.io/publication/marincliffs/</link>
+      <link>https://samherreid.io/publication/marincliffs/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.github.io/publication/marincliffs/</guid>
+      <guid>https://samherreid.io/publication/marincliffs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The state of rock debris covering Earth’s glaciers</title>
-      <link>https://samherreid.github.io/publication/global/</link>
+      <link>https://samherreid.io/publication/global/</link>
       <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.github.io/publication/global/</guid>
+      <guid>https://samherreid.io/publication/global/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     A summary of this paper written in accessable language for the Nature Sustainability Community &amp;ldquo;Behind the Paper&amp;rdquo; series is available &lt;a href=&#34;https://sustainabilitycommunity.springernature.com/posts/rocks-catching-a-ride-out-of-the-mountains-on-a-glacier-might-be-keeping-sea-level-rise-a-little-lower-than-expected&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.
@@ -284,9 +284,9 @@ alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
     
     <item>
       <title>My ultra running history</title>
-      <link>https://samherreid.github.io/post/running_history/</link>
+      <link>https://samherreid.io/post/running_history/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.github.io/post/running_history/</guid>
+      <guid>https://samherreid.io/post/running_history/</guid>
       <description>&lt;p&gt;Rather than race, I enjoy running un/self-supported trail and urban ultras on my own. They are usually the result of a momentary random fixation on a challenge or destination and the run usually happens within a few days of getting the idea :)&lt;/p&gt;
 &lt;p&gt;This running style is predicated on long, off-trail runs in the Alaska Range that filled the summer months of my 20s and came before I ever thought to buy a GPS watch to track them. Most were done alone, usually alongside fieldwork, but I participated in a few events and races during this time, including: &lt;a href=&#34;https://www.newsminer.com/features/outdoors/twelve-adventurous-competitors-tackle-100-mile-alaskacross-course/article_932600aa-1658-11e5-ad1c-83467e260409.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AlaskaCross&lt;/a&gt; 100 mile wilderness race in 2015, &lt;a href=&#34;http://wm100.endurancenorth.org/2014-results&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;White Mountains 100&lt;/a&gt; (skiing) x2 finishes in 2011 and 2014, &lt;a href=&#34;http://trackleaders.com/iditasport15i.php?name=Sam_Herreid&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Iditasport&lt;/a&gt; (225 mile human-powered race on the Iditarod Trail, skiing, 2015, sctatched at mile 51 Yentna Station, only career DNF), the inaugural &lt;a href=&#34;https://angelcreek50.org/results-2015/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Drew&amp;rsquo;s Angel Creek 50 Miler&lt;/a&gt; in 2015, &lt;a href=&#34;https://www.yukon-news.com/sports/roots-mchale-top-the-field-in-river-trail-marathon/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yukon River Trail Marathon&lt;/a&gt; in Whitehorse Yukon Territory Canada x3 finishes (2010, 2014 and 2015), and 9 consecutive &lt;a href=&#34;https://www.adn.com/sports/article/saari-plays-catchup-collect-fifth-equinox-marathon-title/2015/09/20/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Equninox Marathon&lt;/a&gt; finishes from 2007 to 2015, before moving to The UK for graduate school.&lt;/p&gt;
 &lt;p&gt;Since leaving Alaska, and buying my first GPS watch, I&amp;rsquo;ve run a steady volume of self-supported trail and urban ultras with a special love for &amp;ldquo;My front door to ___&amp;rdquo; routes with public transportation back home. Here are some of my favorites:&lt;/p&gt;
@@ -317,9 +317,9 @@ Front door (Bradley Beach) to Princeton (73 km) &lt;a href=&#34;https://www.stra
     
     <item>
       <title>Slides</title>
-      <link>https://samherreid.github.io/slides/example/</link>
+      <link>https://samherreid.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.github.io/slides/example/</guid>
+      <guid>https://samherreid.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -439,9 +439,9 @@ Front door (Bradley Beach) to Princeton (73 km) &lt;a href=&#34;https://www.stra
     
     <item>
       <title>Automated detection of ice cliffs within supraglacial debris cover</title>
-      <link>https://samherreid.github.io/publication/icecliffs/</link>
+      <link>https://samherreid.io/publication/icecliffs/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.github.io/publication/icecliffs/</guid>
+      <guid>https://samherreid.io/publication/icecliffs/</guid>
       <description>&lt;script defer src=&#34;https://cdn.commento.io/js/commento.js&#34;&gt;&lt;/script&gt;
 &lt;div id=&#34;commento&#34;&gt;&lt;/div&gt;
 </description>
@@ -449,9 +449,9 @@ Front door (Bradley Beach) to Princeton (73 km) &lt;a href=&#34;https://www.stra
     
     <item>
       <title>Automated detection of unstable glacier flow and a spectrum of speedup behavior in the Alaska Range</title>
-      <link>https://samherreid.github.io/publication/surge/</link>
+      <link>https://samherreid.io/publication/surge/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.github.io/publication/surge/</guid>
+      <guid>https://samherreid.io/publication/surge/</guid>
       <description>&lt;img src=&#34;speedup_fig.jpg&#34; width=&#34;2000&#34; height=&#34;2000&#34; /&gt;
 &lt;h2 id=&#34;press-coverage-for-work-on-surging-glaciers&#34;&gt;&lt;strong&gt;Press coverage for work on surging glaciers&lt;/strong&gt;&lt;/h2&gt;
 &lt;br/&gt;
@@ -462,9 +462,9 @@ Front door (Bradley Beach) to Princeton (73 km) &lt;a href=&#34;https://www.stra
     
     <item>
       <title>Satellite observations show no net change in the percentage of supraglacial debris-covered area in northern Pakistan from 1977 to 2014</title>
-      <link>https://samherreid.github.io/publication/pakistan/</link>
+      <link>https://samherreid.io/publication/pakistan/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.github.io/publication/pakistan/</guid>
+      <guid>https://samherreid.io/publication/pakistan/</guid>
       <description>&lt;script defer src=&#34;https://cdn.commento.io/js/commento.js&#34;&gt;&lt;/script&gt;
 &lt;div id=&#34;commento&#34;&gt;&lt;/div&gt;
 </description>
@@ -472,57 +472,57 @@ Front door (Bradley Beach) to Princeton (73 km) &lt;a href=&#34;https://www.stra
     
     <item>
       <title>Derivation and analysis of a complete modern-date glacier inventory for Alaska and northwest Canada</title>
-      <link>https://samherreid.github.io/publication/akinventory/</link>
+      <link>https://samherreid.io/publication/akinventory/</link>
       <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.github.io/publication/akinventory/</guid>
+      <guid>https://samherreid.io/publication/akinventory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mass-balance changes of the debris-covered glaciers in the Langtang Himal, Nepal, from 1974 to 1999</title>
-      <link>https://samherreid.github.io/publication/langtang/</link>
+      <link>https://samherreid.io/publication/langtang/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.github.io/publication/langtang/</guid>
+      <guid>https://samherreid.io/publication/langtang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Randolph Glacier Inventory, a globally complete inventory of glaciers</title>
-      <link>https://samherreid.github.io/publication/rgi/</link>
+      <link>https://samherreid.io/publication/rgi/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.github.io/publication/rgi/</guid>
+      <guid>https://samherreid.io/publication/rgi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using surface velocities to calculate ice thickness and bed topography, a case study at Columbia Glacier, Alaska, USA</title>
-      <link>https://samherreid.github.io/publication/icethickness/</link>
+      <link>https://samherreid.io/publication/icethickness/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.github.io/publication/icethickness/</guid>
+      <guid>https://samherreid.io/publication/icethickness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Climate Research Collective</title>
-      <link>https://samherreid.github.io/project/external-project/</link>
+      <link>https://samherreid.io/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.github.io/project/external-project/</guid>
+      <guid>https://samherreid.io/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Glacier trends and response to climate in Denali National Park and Preserve</title>
-      <link>https://samherreid.github.io/publication/dnp/</link>
+      <link>https://samherreid.io/publication/dnp/</link>
       <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.github.io/publication/dnp/</guid>
+      <guid>https://samherreid.io/publication/dnp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>See-G(IS code)</title>
-      <link>https://samherreid.github.io/project/seeg/</link>
+      <link>https://samherreid.io/project/seeg/</link>
       <pubDate>Tue, 27 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.github.io/project/seeg/</guid>
+      <guid>https://samherreid.io/project/seeg/</guid>
       <description>&lt;img src=&#34;johnsonMethod.gif&#34; width=&#34;2000&#34; height=&#34;2000&#34; Caption = &#34;hello&#34;/&gt;
 &lt;p&gt;GIS-based research is a perfect medium for visual learners, however, as your analysis becomes more sophisticated you might end up using a strictly programming environment. In the process of writing a method only with code, a visual learner might miss seeing what is actually happening. See-G(IS code) is a tool to see your method in action and possibly identify redundancies. After defining directories&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;baseMap&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;sa&#34;&gt;r&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;&amp;#34;&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;# .shp (optional)&lt;/span&gt;
@@ -550,9 +550,9 @@ Front door (Bradley Beach) to Princeton (73 km) &lt;a href=&#34;https://www.stra
     
     <item>
       <title>Canwell Glacier Research Program</title>
-      <link>https://samherreid.github.io/project/canwellglacier/</link>
+      <link>https://samherreid.io/project/canwellglacier/</link>
       <pubDate>Sat, 27 Apr 2002 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.github.io/project/canwellglacier/</guid>
+      <guid>https://samherreid.io/project/canwellglacier/</guid>
       <description>&lt;p&gt;During my undergraduate at the University of Alaska Fairbanks, I participated in a summer Field Glaciology course. While we focused on traditional bare-ice glaciological methods, I was fixated on how the measurements we were making were not representative of the neighboring ice covered by rocks. When I learned that that debris-covered portions of glaciers were often treated like bare glacier ice in most studies, I wrote a student research proposal to investigate this on my own.&lt;/p&gt;
 &lt;p&gt;In the infancy of the program, supplies and trips relied on self-funding, I was loaned expensive sensors by professors who didn&amp;rsquo;t have any real reason to trust me (notably &lt;a href=&#34;http://apl.uw.edu/people/profile.php?last_name=Arendt&amp;amp;first_name=Anthony&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anthony Arendt&lt;/a&gt; and &lt;a href=&#34;http://gps.alaska.edu/jeff/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jeff Freymueller&lt;/a&gt;), science gear was ferried to the glacier by bicycle, many trips were done solo and a lot of challenges were met, like the classic failed steam drilling attempt through debris-covered ice. Applying for and receiving several competitive student grants allowed me to purchase a &lt;a href=&#34;https://kovacsicedrillingequipment.com/mechanical-drilling/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kovacs ice drill&lt;/a&gt;, charter Super Cubs and &lt;a href=&#34;https://aklandex.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;helicopters&lt;/a&gt;, purchase sensors and build two weather stations from scratch. I have learned a lot since 2011 and have managed to keep a steady flow of data on a near annual basis with each successive field campaign expanding in scope. The first publication to use Canwell Glacier data was published in May 2018 and several more, digging deeper into the data archive, are in preparation.&lt;/p&gt;
 &lt;img src=&#34;canThumb-01.jpg&#34; width=&#34;2000&#34; height=&#34;2000&#34; /&gt;
@@ -573,9 +573,9 @@ Front door (Bradley Beach) to Princeton (73 km) &lt;a href=&#34;https://www.stra
     
     <item>
       <title>Landslides on glaciers</title>
-      <link>https://samherreid.github.io/project/landslides/</link>
+      <link>https://samherreid.io/project/landslides/</link>
       <pubDate>Fri, 27 Apr 2001 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.github.io/project/landslides/</guid>
+      <guid>https://samherreid.io/project/landslides/</guid>
       <description>&lt;p&gt;Landslides, more technically rock avalanches, are striking features when deposited onto glaciers. Since 2010 I have been both scientifically and personally interested in visiting as many as I can while also keeping an eye on satellite imagery for the next big one&amp;hellip; They are all quite unique, as you will see from some of my favorites shown below.&lt;/p&gt;
 &lt;img src=&#34;Slide1.JPG&#34; width=&#34;800&#34; height=&#34;800&#34; /&gt;
 &lt;p&gt;The Delta Mountains, a sub-range of the Alaska Range. Landslides are shown in red and letters correspond to the locations of the images below.&lt;/p&gt;
@@ -602,9 +602,9 @@ Front door (Bradley Beach) to Princeton (73 km) &lt;a href=&#34;https://www.stra
     
     <item>
       <title>Debris Cover Tools</title>
-      <link>https://samherreid.github.io/project/dct/</link>
+      <link>https://samherreid.io/project/dct/</link>
       <pubDate>Thu, 27 Apr 2000 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.github.io/project/dct/</guid>
+      <guid>https://samherreid.io/project/dct/</guid>
       <description>&lt;p&gt;Development of &lt;a href=&#34;https://github.com/samherreid/DebrisCoverTools/blob/master/DebrisCoverTools.py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Debris Cover Tools (DCT)&lt;/a&gt; started in May 2018. The intent was an open-source suite of Python based tools that any climate modeler could easily run to add the effects of debris cover to their work in a modular form. At the time, and still today, many global glacier models neglect debris cover entirely.&lt;/p&gt;
 &lt;p&gt;While it&amp;rsquo;s not a top development priority for me, all of the small scripts I write will eventually be packaged into a cohesive DCT Jupyter notebook for either community use or just to sit and accumulate dust on github. Several of the tools I have developed have been published in peer-reviewed articles and they are linked below.&lt;/p&gt;
 &lt;p&gt;While it&amp;rsquo;s annoying and not open-source, I use the package arcpy (I pay $100USD/year to have a licence). Being something of an indusrty standard makes it slightly okay, I think, but I would one day like for these tool to run exclusivly with open-source Python packages.&lt;/p&gt;
@@ -728,9 +728,9 @@ Front door (Bradley Beach) to Princeton (73 km) &lt;a href=&#34;https://www.stra
     
     <item>
       <title></title>
-      <link>https://samherreid.github.io/admin/config.yml</link>
+      <link>https://samherreid.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.github.io/admin/config.yml</guid>
+      <guid>https://samherreid.io/admin/config.yml</guid>
       <description></description>
     </item>
     

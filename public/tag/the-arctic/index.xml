@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Arctic | Sam Herreid</title>
-    <link>https://samherreid.github.io/tag/the-arctic/</link>
-      <atom:link href="https://samherreid.github.io/tag/the-arctic/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://samherreid.io/tag/the-arctic/</link>
+      <atom:link href="https://samherreid.io/tag/the-arctic/index.xml" rel="self" type="application/rss+xml" />
     <description>The Arctic</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://samherreid.github.io/media/icon_hu4111fabdab116352ce8a62ad911042e7_28769_512x512_fill_lanczos_center_3.png</url>
+      <url>https://samherreid.io/media/icon_hu4111fabdab116352ce8a62ad911042e7_28769_512x512_fill_lanczos_center_3.png</url>
       <title>The Arctic</title>
-      <link>https://samherreid.github.io/tag/the-arctic/</link>
+      <link>https://samherreid.io/tag/the-arctic/</link>
     </image>
     
     <item>
       <title>Losing the Arctic (Book Chapter)</title>
-      <link>https://samherreid.github.io/publication/arcticocean/</link>
+      <link>https://samherreid.io/publication/arcticocean/</link>
       <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.github.io/publication/arcticocean/</guid>
+      <guid>https://samherreid.io/publication/arcticocean/</guid>
       <description></description>
     </item>
     

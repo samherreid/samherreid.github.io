@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GIS | Sam Herreid</title>
-    <link>https://samherreid.github.io/tag/gis/</link>
-      <atom:link href="https://samherreid.github.io/tag/gis/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://samherreid.io/tag/gis/</link>
+      <atom:link href="https://samherreid.io/tag/gis/index.xml" rel="self" type="application/rss+xml" />
     <description>GIS</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Apr 2010 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://samherreid.github.io/media/icon_hu4111fabdab116352ce8a62ad911042e7_28769_512x512_fill_lanczos_center_3.png</url>
+      <url>https://samherreid.io/media/icon_hu4111fabdab116352ce8a62ad911042e7_28769_512x512_fill_lanczos_center_3.png</url>
       <title>GIS</title>
-      <link>https://samherreid.github.io/tag/gis/</link>
+      <link>https://samherreid.io/tag/gis/</link>
     </image>
     
     <item>
       <title>See-G(IS code)</title>
-      <link>https://samherreid.github.io/project/seeg/</link>
+      <link>https://samherreid.io/project/seeg/</link>
       <pubDate>Tue, 27 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://samherreid.github.io/project/seeg/</guid>
+      <guid>https://samherreid.io/project/seeg/</guid>
       <description>&lt;img src=&#34;johnsonMethod.gif&#34; width=&#34;2000&#34; height=&#34;2000&#34; Caption = &#34;hello&#34;/&gt;
 &lt;p&gt;GIS-based research is a perfect medium for visual learners, however, as your analysis becomes more sophisticated you might end up using a strictly programming environment. In the process of writing a method only with code, a visual learner might miss seeing what is actually happening. See-G(IS code) is a tool to see your method in action and possibly identify redundancies. After defining directories&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;baseMap&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;sa&#34;&gt;r&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;&amp;#34;&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;# .shp (optional)&lt;/span&gt;
