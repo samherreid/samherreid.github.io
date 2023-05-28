@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Sam Herreid</title>
+    <link>https://samherreid.github.io/tags/</link>
+      <atom:link href="https://samherreid.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://samherreid.github.io/media/icon_hu4111fabdab116352ce8a62ad911042e7_28769_512x512_fill_lanczos_center_3.png</url>
+      <title>Tags</title>
+      <link>https://samherreid.github.io/tags/</link>
+    </image>
+    
+  </channel>
+</rss>

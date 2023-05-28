@@ -5,7 +5,7 @@ widget: blank
 
 # This file represents a page section.
 headless: true
-active: false
+active: true
 # Order that this section appears on the page.
 weight: 117
 
@@ -15,6 +15,11 @@ subtitle:
 design:
   columns: '1'
 ---
+
+<!-- Include the required lightGallery JavaScript and CSS files -->
+<script src="https://cdn.jsdelivr.net/npm/lg-fullscreen@1.3.0/dist/lg-fullscreen.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/lightgallery@1.10.0/dist/js/lightgallery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery@1.10.0/dist/css/lightgallery.min.css">
 
 <style>
 #lightgallery {
@@ -74,8 +79,3 @@ document.addEventListener('DOMContentLoaded', function () {
   });
 });
 </script>
-
-<!-- Include the required lightGallery JavaScript and CSS files -->
-<script src="https://cdn.jsdelivr.net/npm/lg-fullscreen@1.3.0/dist/lg-fullscreen.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/lightgallery@1.10.0/dist/js/lightgallery.min.js"></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery@1.10.0/dist/css/lightgallery.min.css">
