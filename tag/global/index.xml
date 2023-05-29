@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Global | Sam Herreid</title><link>https://samherreid.github.io/tag/global/</link><atom:link href="https://samherreid.github.io/tag/global/index.xml" rel="self" type="application/rss+xml"/><description>Global</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2022 00:00:00 +0000</lastBuildDate><image><url>https://samherreid.github.io/media/icon_hu4111fabdab116352ce8a62ad911042e7_28769_512x512_fill_lanczos_center_3.png</url><title>Global</title><link>https://samherreid.github.io/tag/global/</link></image><item><title>Global scale analyses and products</title><link>https://samherreid.github.io/project/global/</link><pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate><guid>https://samherreid.github.io/project/global/</guid><description>&lt;img src="global_pan.gif" width="2000" height="2000" />
+&lt;p>&amp;ldquo;1° x 1° cells over glacierized area showing percent debris-covered area.&amp;rdquo;&lt;/p>
+&lt;p>In order to derive a global debris cover map at an operative quality, the Randolph Glacier Inventory Version 6.0 needed to be corrected and updated. Because I was the sole glaciologist to manually correct this dataset, there is now a heightened level of consistency that has never before been present in a global glacier dataset.&lt;/p>
+&lt;p>With a high confidence map of glacier area and debris cover, an equilibrium line estimate can be made for glaciers with sufficient debris cover.&lt;/p>
+&lt;p>After the derivation of each galcier&amp;rsquo;s equilibrium line, the accumulation area ratio (AAR), a metrics of glacier health, can be calculated.&lt;/p>
+&lt;p>From here I was able to diverge from the common, and not-so-informative, metric &amp;quot; percent debris-covered&amp;quot; to define four new metrics, that, together, describe the state and geometric configuration of each glacier&amp;rsquo;s debris cover. These new metrics are defined below with examples from around the world.&lt;/p>
+&lt;img src="fig3-01.jpg" width="2000" height="2000" />
+&lt;p>The updated RGI, debris maps and per-glacier metric values are all available for all glacierized regions on Earth &lt;a href="https://doi.org/10.5281/zenodo.3866466" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
+&lt;script defer src="https://cdn.commento.io/js/commento.js">&lt;/script>
+&lt;div id="commento">&lt;/div></description></item><item><title>The state of rock debris covering Earth’s glaciers</title><link>https://samherreid.github.io/publication/global/</link><pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate><guid>https://samherreid.github.io/publication/global/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+A summary of this paper written in accessable language for the Nature Sustainability Community &amp;ldquo;Behind the Paper&amp;rdquo; series is available &lt;a href="https://sustainabilitycommunity.springernature.com/posts/rocks-catching-a-ride-out-of-the-mountains-on-a-glacier-might-be-keeping-sea-level-rise-a-little-lower-than-expected" target="_blank" rel="noopener">here&lt;/a>.
+&lt;/div>
+&lt;/div>
+&lt;img src="website_global.jpg" width="2000" height="2000" />
+The state and evolution trajectory of Earth's glaciers.
+&lt;br/>
+&lt;p>&lt;a href="https://www.nature.com/articles/s41561-020-0615-0" class="" target="_blank">&lt;img src="ngeoVol13.png"
+height="500"
+width="500"
+alt="" />&lt;/a>&lt;/p>
+&lt;br/>
+&lt;h2 id="press-for-the-state-of">&lt;strong>Press for &amp;lsquo;The State Of&amp;rsquo;&lt;/strong>&lt;/h2>
+&lt;br/>
+&lt;p>&lt;strong>Phys.org&lt;/strong> &lt;a href="https://phys.org/news/2020-08-blanket-debris-glaciers-climate-previously.html" target="_blank" rel="noopener">Blanket of rock debris offers glaciers more protection from climate change than previously known&lt;/a>&lt;br>
+&lt;strong>Jungfrau Zeitung&lt;/strong> (Switzerland) &lt;a href="https://www.jungfrauzeitung.ch/artikel/183790/" target="_blank" rel="noopener">Hälfte der Gletscher weltweit mit Schutt bedeckt&lt;/a> (Language: DE)&lt;br>
+&lt;strong>Tages Anzeiger&lt;/strong> (Switzerland) &lt;a href="https://www.tagesanzeiger.ch/wie-schutt-die-gletscherschmelze-beeinflusst-968089837751" target="_blank" rel="noopener">Wie Schutt die Gletscherschmelze beeinflusst&lt;/a> (Language: DE)&lt;br>
+&lt;strong>Der Standard&lt;/strong> (Austria) &lt;a href="https://www.derstandard.de/story/2000119222428/herumliegender-schutt-laesst-gletscher-langsamer-schmelzen" target="_blank" rel="noopener">Herumliegender Schutt lässt Gletscher langsamer schmelzen&lt;/a> (Language: DE)&lt;br>
+&lt;strong>El Mercurio&lt;/strong> (Chile) &lt;a href="https://www.elmercurio.com/blogs/2020/08/10/81023/Una-frazada-para-el-glaciar.aspx" target="_blank" rel="noopener">Una frazada para el glaciar&lt;/a> (Language: ES)&lt;br>
+&lt;strong>教育 新闻 网&lt;/strong> &lt;a href="https://www.edunews.net.cn/2020/kexue_0810/13702.html?fbclid=IwAR1ByE-emaxjmQq3nTNh0zx5IRm042uJ2Y0Bux2Kq2qCxF8tbyk6UpOM0y8" target="_blank" rel="noopener">岩屑毯为冰川提供了更多的保护 使其免受气候变化的影响&lt;/a> (Language: CMN)&lt;br>
+&lt;strong>Middle East business and financial news&lt;/strong> &lt;a href="https://menafn.com/1100596880/British-Swiss-study-reveals-more-glacier-shielding-rock-debris" target="_blank" rel="noopener">British-Swiss study reveals more glacier-shielding rock debris&lt;/a>&lt;br>
+&lt;strong>Kurier&lt;/strong> &lt;a href="https://kurier.at/wissen/wissenschaft/haelfte-der-gletscher-weltweit-mit-schutt-bedeckt/400993364" target="_blank" rel="noopener">Hälfte der Gletscher weltweit mit Schutt bedeckt&lt;/a> (Language: DE)&lt;br>
+&lt;strong>Népszava&lt;/strong> &lt;a href="https://nepszava.hu/3087502_kotormelek-boritja-a-gleccsereket" target="_blank" rel="noopener">Kőtörmelék borítja a gleccsereket&lt;/a> (Language: HU)&lt;br>
+&lt;strong>Hirado.hu&lt;/strong> &lt;a href="https://hirado.hu/tudomany-high-tech/cikk/2020/08/06/kotormelek-boritja-a-gleccserek-felet" target="_blank" rel="noopener">A svájci Erdő, Hó- és Tájkutatási Szövetségi Intézet (WSL) első alkalommal vizsgálta meg műholdak segítségével, milyen mértékben fedi kőtörmelék a gleccsereket.&lt;/a> (Language: HU)&lt;br>
+&lt;strong>ORIGO&lt;/strong> &lt;a href="https://www.origo.hu/tudomany/20200809-a-gleccserek-felet-tormelek-boritja-vilagszerte.html" target="_blank" rel="noopener">A gleccserek felét törmelék borítja&lt;/a> (Language: HU)&lt;br>
+&lt;strong>Eurasia Review&lt;/strong> &lt;a href="https://www.eurasiareview.com/07082020-rock-debris-protects-glaciers-from-climate-change-more-than-previously-known/" target="_blank" rel="noopener">Rock Debris Protects Glaciers From Climate Change More Than Previously Known&lt;/a>&lt;br>
+&lt;strong>Innovations Report&lt;/strong> &lt;a href="https://www.innovations-report.com/earth-sciences/rock-debris-protects-glaciers-from-climate-change-more-than-previously-known/" target="_blank" rel="noopener">Rock debris protects glaciers from climate change more than previously known&lt;/a>&lt;br>
+&lt;strong>AAAS EurekAlert!&lt;/strong> &lt;a href="https://www.eurekalert.org/news-releases/909763" target="_blank" rel="noopener">Rock debris protects glaciers from climate change more than previously known&lt;/a>&lt;br>
+&lt;strong>ScienceDaily&lt;/strong> &lt;a href="https://www.sciencedaily.com/releases/2020/08/200805110120.htm" target="_blank" rel="noopener">Blanket of rock debris offers glaciers more protection from climate change than previously known&lt;/a>&lt;br>
+&lt;strong>Swissinfo.ch&lt;/strong> &lt;a href="https://www.swissinfo.ch/eng/sci-tech/british-swiss-study-reveals-more-glacier-shielding-rock-debris/45951010" target="_blank" rel="noopener">British-Swiss study reveals more glacier-shielding rock debris&lt;/a>&lt;br>
+&lt;strong>WSL-Institut für Schnee- und Lawinenforschung SLF&lt;/strong> &lt;a href="https://www.slf.ch/de/2020/08/eine-decke-aus-gestein-schuetzt-gletscher-besser-als-vermutet-vor-dem-klimawandel.html" target="_blank" rel="noopener">Eine Decke aus Gestein schützt Gletscher besser als vermutet vor dem Klimawandel&lt;/a> (Language: DE)&lt;br>
+&lt;strong>science.orf.at&lt;/strong> &lt;a href="https://science.orf.at/stories/3201330/" target="_blank" rel="noopener">Hälfte der Gletscher mit Schutt bedeckt&lt;/a> (Language: DE)&lt;br>
+&lt;strong>Tierwelt&lt;/strong> &lt;a href="https://www.tierwelt.ch/news/natur-umwelt/haelfte-der-gletscher-weltweit-mit-schutt-bedeckt" target="_blank" rel="noopener">Hälfte der Gletscher weltweit mit Schutt bedeckt&lt;/a> (Language: DE)&lt;br>
+&lt;strong>Nau.ch&lt;/strong> &lt;a href="https://www.nau.ch/news/forschung/fast-halfte-der-gletscher-weltweit-mit-schutt-bedeckt-65756555" target="_blank" rel="noopener">Fast Hälfte der Gletscher weltweit mit Schutt bedeckt&lt;/a> (Language: DE)&lt;/p>
+&lt;script defer src="https://cdn.commento.io/js/commento.js">&lt;/script>
+&lt;div id="commento">&lt;/div></description></item><item><title>The Randolph Glacier Inventory, a globally complete inventory of glaciers</title><link>https://samherreid.github.io/publication/rgi/</link><pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate><guid>https://samherreid.github.io/publication/rgi/</guid><description/></item></channel></rss>
