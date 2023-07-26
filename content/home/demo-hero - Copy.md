@@ -16,4 +16,4 @@ design:
 ---
 <div class="mb-3"></div>
 
-**[New science fiction: trail running in Antarctica 500 years from now](https://freetrail.com/a-letter-to-the-past/)**
+**[Sam's first published fiction: trail running in Antarctica 500 years from now](https://freetrail.com/a-letter-to-the-past/)**

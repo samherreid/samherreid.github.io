@@ -16,7 +16,7 @@ My 20s were littered with Alaskan adventures. Things like 100+ mile off-trail mu
 
 When I left Alaska to get a PhD in Glaciology in northeast England, it was a rude awakening that: (1) social skills are key to human survival and (2) life outside of Alaska is absurdly mundane, to the point of attempting to eat a Tide Pod just so there’s something to talk about. I’m convinced that relentless political news cycles, televised sports, holiday traditions, and all other time-intensive mainstays of typical life are placeholders – filling time before the next Alaskan adventure. Unfortunately, most people, and now me as well, are likely going to be in this holding pattern for a lifetime. But this article isn’t a paid advertisement for the Alaska Tourism Bureau, it’s about how I’ve made life in the mundane work while keeping the detergent in the washing machine.
 
-Read the rest of the aticle [on Freetrail.com](https://freetrail.com/the-front-door-to-____-urban-ultra-series/), and come back here to leave a comment :)
+Read the rest of the article [on Freetrail.com](https://freetrail.com/the-front-door-to-____-urban-ultra-series/), and come back here to leave a comment :)
 
 <script defer src="https://cdn.commento.io/js/commento.js"></script>
 <div id="commento"></div>

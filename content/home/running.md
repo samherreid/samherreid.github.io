@@ -17,7 +17,12 @@ title: Running
 
 March 25th -- [Mt. Tammany 10](https://ultrasignup.com/results_event.aspx?did=93925) 64 km, 3000 m d+ **(8:16:10, 2nd OA)** 
 
-July 13th -- [New York City Twilight 5000](https://www.tracksmith.com/pages/twilight-5000) m on the track
+July 13th -- [New York City Twilight 5000](https://www.tracksmith.com/pages/twilight-5000) m on the track **(17:50)**
 
+July 19th -- [Philidelphia Twilight 5000](https://www.tracksmith.com/pages/twilight-5000) m on the track **(17:28)**
+
+![screen reader text](ichan2023.jpg "")
+
+Photo: Henwood's Hounds. Ichan Stadium, July 13, 2023
 
 

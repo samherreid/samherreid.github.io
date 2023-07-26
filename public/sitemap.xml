@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://samherreid.github.io/post/freetrail_orthodox_runner/</loc>
+    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samherreid.github.io/post/</loc>
+    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://samherreid.github.io/</loc>
+    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://samherreid.github.io/tag/debris-cover/</loc>
     <lastmod>2023-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -18,10 +30,6 @@
     <lastmod>2023-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://samherreid.github.io/</loc>
-    <lastmod>2023-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://samherreid.github.io/tag/software/</loc>
     <lastmod>2023-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -31,10 +39,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://samherreid.github.io/post/freetrail_wau/</loc>
-    <lastmod>2023-02-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://samherreid.github.io/post/</loc>
     <lastmod>2023-02-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -152,14 +156,6 @@
   </url><url>
     <loc>https://samherreid.github.io/tag/running-history/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://samherreid.github.io/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://samherreid.github.io/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://samherreid.github.io/publication/icecliffs/</loc>
