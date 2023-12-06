@@ -16,4 +16,4 @@ design:
 ---
 <div class="mb-3"></div>
 
-**[Sam's first published fiction: trail running in Antarctica 500 years from now](https://freetrail.com/a-letter-to-the-past/)**
+**[Sam Herreid Live: The Trail Running EP](https://www.youtube.com/watch?v=IocaeIWNXP8&list=PLvjxaXhyNGE1h5eNkH2IF79Oi69tP_Zm0)**
