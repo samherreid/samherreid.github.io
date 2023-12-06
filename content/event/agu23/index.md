@@ -24,7 +24,7 @@ publishDate: "2023-11-12T00:00:00Z"
 summary: 
 tags: []
 title: Combining Deep Learning and a Sparse Global Dataset of Free Hydrogen Associated Fairy Circles to Inform Exploration into a Potentially Revolutionizing Green Energy Source (NS13C-0528)
-slug: "osu_agu"
+slug: osu_agu
 url_code: ""
 url_pdf: ""
 url_slides: ""

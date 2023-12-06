@@ -3,6 +3,8 @@
 # Documentation: https://wowchemy.com/docs/getting-started/page-builder/
 widget: blank
 
+# SAMMY! If public gets deleted, run this by itself below {{< gallery album="demo" >}} and then replace with the code below. Annoying, I know, but it works. 
+
 # This file represents a page section.
 headless: true
 active: true
@@ -15,7 +17,6 @@ subtitle:
 design:
   columns: '1'
 ---
-
 <!-- Include the required lightGallery JavaScript and CSS files -->
 <script src="https://cdn.jsdelivr.net/npm/lg-fullscreen@1.3.0/dist/lg-fullscreen.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/lightgallery@1.10.0/dist/js/lightgallery.min.js"></script>
@@ -38,7 +39,6 @@ design:
   transform: scale(1.1);
 }
 </style>
-
 <div id="lightgallery">
   <!-- Replace the image URLs below with your actual image URLs -->
   <a href="/media/albums/demo/1.jpg">
@@ -68,6 +68,7 @@ design:
   <a href="/media/albums/demo/9.jpg">
     <img src="/media/albums/demo/9.jpg">
   </a>
+
 </div>
 
 <script>
@@ -79,3 +80,4 @@ document.addEventListener('DOMContentLoaded', function () {
   });
 });
 </script>
+
