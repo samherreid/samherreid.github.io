@@ -12,14 +12,9 @@ education:
 email: "samherreid@gmail.com"
 first_name: Sam
 highlight_name: true
-interests:
-- Using rock debris on glaciers to model impacts of climate change
-- Contributing scientifically to the global transition to green energy
-- Writing, recording and performing music on my baby grand piano
-- Ultra distance trail and adventure running
-- Comedy writing
+
 last_name: Herreid
-role: glaciologist, runner, musician, writer
+role: שמואל הריד
 social:
 - icon: envelope
   icon_pack: fas
@@ -52,10 +47,17 @@ superuser: true
 title: Sam Herreid
 ---
 
-I am a **postdoc at the OSU Byrd Polar and Climate Research Center** working on exciting new carbon-free energy resources. I decided to shift to green energy because it is an exceptionally fast paced field with a lot of potential to make a societal contribution. More so than my fixation on studying rocks on glaciers, but I still independently work on this problem because I like it. And it contributes to better understanding future water resources and sea level rise. My publications on glaciers have spanned field studies in Alaska to global analyses. Currently, I am writing an **open-source forward model predicting the distribution of rock debris on glaciers** several hundreds of years into the future.
+I am an Alaska-raised, California-based geoscientist actively working on a diverse set of climate-focused projects:
 
-Open scientific knowledge is foundational to human advances. Foundational knowledge is often not directly coupled to profit and cannot be truncated by political boundaries. Currently in academics, the dissuasion for junior scientists to continue to pursue foundational research is palpable. This needs to change. To contribute to this effort, I **co-founded the US-based nonprofit Open Climate Research Collective (OCRC)**, to reimagine scientific funding. More information about supporting or receiving funding from OCRC can be found [here](https://openclimateresearch.org/).
+- I work on **ice sheet dynamics in Antarctica** as a postdoc in Eric Rignot’s Research Group at the University of California Irvine
 
-Outside of academics, I am a **multi-instrumentalist** currently writing and recording a solo EP capturing the lifestyle and culture around ultra distance trail and mountain running. My show is unique because I try to play thoughtfully written music within a somewhat absurd arrangement of playing piano and drums at the same time. I also **run a lot**. I occupy that grey area of running where I can casually qualify for Boston but am light-years away from making the Olympic Trials. My preference is to run very long distances on trails, but right now I live in a flat New Jersey beach town. I make the best of it. Which is sometimes funny. And I sometimes write **comedy articles** about it. Links below. 
-   
 
+- In 2024 I co-founded Rubicon Exploration, a Paris-based startup working on developing **naturally occuring hydrogen** as a carbon-free energy source
+
+- I am co-founder of Open Climate Research Collective (OCRC) a New Jersey based 501(c)(3) focused on using **immersive tech for science communication** and gamifying education 
+
+- I am self-financing an Alaska Range glacier research project developing a numerical model to **predict how glaciers will look several in several hundreds of years**
+
+Probably my best scientific achievement so far is turning a research question I had at age 20 into a PhD and publishing it in **Nature Geoscience**. A close second is self-financing a research article about a glacier in the Alaska Range on tip money from **pouring latte art** at a cafe on the Jersey Shore during the pandemic.
+
+Outside of academics, I study Gemara and write music. I play piano and drums, sometimes at the same time, and sometimes for an audience. I also run a lot. I occupy that grey area of running where I can casually qualify for Boston but I’m light-years away from qualifying for the Olympic trials. My preference is to run very long distances on trails, but working on this ambitious list of science projects and השכמת בית המדרש שחרית וערבית doesn’t leave too much time to play. As a concession, I like to run ultra distances from my front door down the middle of highways through the night. An Alaskan trapped in an urban environment. I make the best of it. Which is sometimes funny. And I sometimes write comedy articles about it. Links below. 

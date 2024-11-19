@@ -2,6 +2,7 @@
 # An instance of the Blank widget with a Gallery page element.
 # Documentation: https://wowchemy.com/docs/getting-started/page-builder/
 widget: blank
+active: false
 
 # SAMMY! If public gets deleted, run this by itself below {{< gallery album="demo" >}} and then replace with the code below. Annoying, I know, but it works. 
 

@@ -1,7 +1,7 @@
 ---
 widget: hero
 headless: true
-active: true
+active: false
 weight: 10
 title: 
 hero_media: NONE

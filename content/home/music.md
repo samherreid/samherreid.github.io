@@ -10,23 +10,19 @@ title: Music
 # advanced:
 #   css_class: fullscreen
 ---
-{{< youtube rrtkMVvjK_E>}}
-
-{{< youtube D_eRxvY8Nys>}}
 
 {{< youtube GzwlK2Wq94o>}}
+
+{{< youtube eIpoF_BdDMk>}}
+
+{{< youtube F7nfxbZ0nPk>}}
+
+
 
 
 
 
 <br/>
 
-EP tracklist:
 
-- Graubünden  
-- Chamonix  
-- Ирина  
-- Green Mountain  
-- Spring Lake nights  
-
-Full show [on youtube](https://www.youtube.com/watch?v=IocaeIWNXP8&list=PLvjxaXhyNGE1h5eNkH2IF79Oi69tP_Zm0). 
+[More music on youtube](https://www.youtube.com/watch?v=IocaeIWNXP8&list=PLvjxaXhyNGE1h5eNkH2IF79Oi69tP_Zm0). 

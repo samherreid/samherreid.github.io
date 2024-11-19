@@ -23,16 +23,29 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Postdoctoral researcher
-    company: OSU Byrd Polar and Climate Research Center 
-    company_url: 'https://byrd.osu.edu/'
-    company_logo: osu
-    location: Ohio, USA (remote)
-    date_start: '2023-05-08'
+    company: Rignot Research Group, University of California, Irvine
+    company_url: 'https://faculty.sites.uci.edu/erignot/'
+    company_logo: uci
+    location: Orange County, California, USA
+    date_start: '2024-05-15'
     date_end: ''
     description: |2-
         Responsibilities include:
-        * Software engineer
-        * Machine learning for geophysical applications
+        * Software development for NISAR
+        * Deriving velocities and grounding lines for Antarctica 
+  - title: Co-founder, CTO
+    company: Rubicon Exploration
+    company_url: 'https://www.rubiconexploration.com/'
+    company_logo: rubex
+    location: Paris, France
+    date_start: '2024-06-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        * Providing scientific and technological direction
+        * Startup fundraising
+        * Software development for geologic hydrogen exploration
+    
   - title: Co-founder, Executive Director
     company: Open Climate Research Collective
     company_url: 'https://openclimateresearch.org/'
@@ -44,10 +57,20 @@ experience:
         Responsibilities include:
         
         * Business planning
-        * Fund-raising / public speaking
+        * Fundraising / public speaking
         * VR development
         * Scientifc direction
-
+  - title: Postdoctoral researcher
+    company: OSU Byrd Polar and Climate Research Center 
+    company_url: 'https://byrd.osu.edu/'
+    company_logo: osu
+    location: Ohio, USA (remote)
+    date_start: '2023-05-08'
+    date_end: '2024-05-08'
+    description: |2-
+        Responsibilities included:
+        * Software development for geologic hydrogen exploration
+        * Machine learning for geophysical applications
   - title: Research Assistant
     company: Eidgenössische Forschungsanstalt für Wald, Schnee und Landschaft
     company_url: ''
