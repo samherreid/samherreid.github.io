@@ -17,9 +17,11 @@ title: Running
 
 July 4, 2024 -- [Irvine 4th of July 5k](https://runsignup.com/Race/Results/60114#resultSetId-469448;perpage:10) **(6th OA in 17:13)**
 
+November 28, 2024 - R2R2R, Grand Canyon - 10h40m
+
 December 15, 2024 -- [Dirty December Trail Run](https://ultrasignup.com/register.aspx?did=115157) 6HR hill climb in San Diego, CA
 
-September 4th 2025 -- [Ultra Tral Du Monte Rosa (UTMR)](https://www.ultratourmonterosa.com/) 170k on trails in Switzerland and Italy (unconfirmed entry)
+September 4th 2025 -- [Ultra Tral Du Monte Rosa (UTMR)](https://www.ultratourmonterosa.com/) 170k on trails in Switzerland and Italy (confirmed entry)
 
 
 ![screen reader text](ichan2023.jpg "")
