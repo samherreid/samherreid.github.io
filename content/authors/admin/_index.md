@@ -1,5 +1,5 @@
 ---
-bio: My research interests include rock debris on glaciers, advancing regional to global scale glacier modeling and restructuring the financing of climate science.
+bio: Glaciologist, comedy writer, musician, runner.
 education:
   courses:
   - course: PhD in Glaciology
@@ -56,7 +56,7 @@ I am an Alaska-raised, California-based geoscientist actively working on a diver
 
 - I am co-founder of Open Climate Research Collective (OCRC) a New Jersey based 501(c)(3) focused on using **immersive tech for science communication** and gamifying education 
 
-- I am self-financing an Alaska Range glacier research project developing a numerical model to **predict how glaciers will look several hundred year into the future**
+- I am self-financing an Alaska Range glacier research project developing a numerical model to **predict how glaciers will look several hundreds of years into the future**
 
 Probably my best scientific achievement so far is turning a research question I had at age 20 into a PhD and publishing it in **Nature Geoscience**. A close second is self-financing a research article about a glacier in the Alaska Range on tip money from **pouring latte art** at a cafe on the Jersey Shore during the pandemic.
 
