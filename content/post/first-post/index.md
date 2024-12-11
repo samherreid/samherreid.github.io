@@ -2,7 +2,7 @@
 authors:
 - admin
 categories:
-date: "2022-12-2T00:00:00Z"
+date: "2022-12-02"
 draft: false
 featured: false
 image:

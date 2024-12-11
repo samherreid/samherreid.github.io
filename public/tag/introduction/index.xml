@@ -21,8 +21,8 @@
 &lt;p&gt;Firstly, the domain extension. No one has time to comment on things, those that do occupy a beautiful few percentages of our population. When samherreid.org launched there wasn’t public commenting, but a few people privately messaged me, laughing at my ambitious organization designation. It made some sense to me because it was a well-known extension and I’m not a commercial entity. But now that I am a co-founder of an actual nonprofit organization, I decided to switch my personal website to the trendy .io extension.&lt;/p&gt;
 &lt;p&gt;While this website still has a comprehensive presentation of my science, I decided to ditch the selective resume format and host all of my creative fields in on one central &amp;ndash; and not social media &amp;ndash; location. Am I still applying for postdocs with a link to this website on my CV? Yes 😅, but I guess I’ve decided to be my whole self here, which means expect inline emojis and jokes about eating Tide Pods.&lt;/p&gt;
 &lt;p&gt;This new website has an uncomplicated comments section on all posts, articles and projects and I challenge you to be in the few percent who leave a comment, joke, question or criticism.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;script defer src=&#34;https://cdn.commento.io/js/commento.js&#34;&gt;&lt;/script&gt;
+&lt;div id=&#34;commento&#34;&gt;&lt;/div&gt;
 </description>
     </item>
     

@@ -18,8 +18,8 @@
       <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://samherreid.github.io/project/debrisevolution/</guid>
       <description>&lt;p&gt;This is my most active area of research. A paper and code will be populating this space very soon&amp;hellip;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;script defer src=&#34;https://cdn.commento.io/js/commento.js&#34;&gt;&lt;/script&gt;
+&lt;div id=&#34;commento&#34;&gt;&lt;/div&gt;
 </description>
     </item>
     
@@ -145,9 +145,8 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;gamma&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;mf&#34;&gt;0.0001&lt;/span&gt;              &lt;span class=&#34;c1&#34;&gt;# Tolerance to asymptote, defines line used to find optimized value&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                            &lt;span class=&#34;c1&#34;&gt;# File name convention: mmyyyy(demDate)_beta_e-(beta_e)_alpha--(10*alpha)_lineExt--(L_e)m_minPixs--(A_min)_res-(pixel)m&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                            &lt;span class=&#34;c1&#34;&gt;# e.g.: 072016_beta_e3_alpha20_lineExt10m_minPixs10_res5m&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;script defer src=&#34;https://cdn.commento.io/js/commento.js&#34;&gt;&lt;/script&gt;
+&lt;div id=&#34;commento&#34;&gt;&lt;/div&gt;</description>
     </item>
     
   </channel>
