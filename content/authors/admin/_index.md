@@ -14,7 +14,7 @@ first_name: Sam
 highlight_name: true
 
 last_name: Herreid
-role: שמואל הריד
+role: שְׁמוּאֵל חֲרֵד
 social:
 - icon: envelope
   icon_pack: fas

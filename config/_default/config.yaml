@@ -84,4 +84,6 @@ minify:
 ############################
 
 params:
-  enableGoogleAnalytics: false
+  enableGoogleAnalytics: true
+  analytics:
+    google: ""
