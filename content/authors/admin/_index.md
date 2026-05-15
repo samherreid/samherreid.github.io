@@ -18,7 +18,7 @@ role: שמואל הרד
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact - Copy
+  link: /#contact
 - display:
     header: true
   icon: instagram
